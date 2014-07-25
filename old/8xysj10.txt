@@ -1,0 +1,856 @@
+The Project Gutenberg EBook of shen jian, by xun yue
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: shen jian
+
+Author: xun yue
+
+Release Date: February, 2005 [EBook #7408]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on April 25, 2003]
+
+Edition: 10
+
+Language: Chinese
+
+Character set encoding: BIG-5
+
+*** START OF THE PROJECT GUTENBERG EBOOK SHEN JIAN ***
+
+
+
+
+Produced by Ni-Yen Wu
+
+
+
+
+¥ÓÅ³
+
+º~¯û®®µÛ
+
+¬FÅé²Ä¤@
+
+¤Ò¹D¤§¥»¡D¤¯¸q¦Ó¤w¨o¡D¤­¨å¥H¸g¤§¡D¸sÄy¥H½n¤§¡Dµú¤§ºq¤§¡D©¶¤§»R¤§
+¡D«eÅ³¬J©ú¡D«á½Æ¥Ó¤§¡D¬G¥j¤§¸t¤ý¡D¨ä¤_¤¯¸q¤]¡D¥Ó­«¦Ó¤w¡D¿w§ÇµL±j
+¡D¿×¤§¥ÓÅ³¡D¸tº~²Î¤Ñ¡D±©©v®É«G¡D¨ä¥\®æ¦t©z¡D¸f¦³ªê¦Ú¶Ã¬F¡Dªê¦Úº~
+¿³»²´]¤§¦Ú¶Ãªv¤]®É¥ç±©¯î¦e´ó¡Dªv¯î¤ê¯î¯÷¬x­y»ö¡DÅ³©ó¤T¥N¤§¨å¡D¤ý
+¤¹­}³Ö¼w¡D­}ÁÐ¤]¥\·~¦³©|¡D¤Ñ¹D¦bº¸¡D±©«Ò­Z¤î¡DÔF­°½§¤î¡D¸U°ê±d¤î
+¡D¤¹¥X¯÷¡D´µ¦æ»·¨o¡D¥ß¤Ñ¤§¹D¡D¤ê³±»P¶§¡D¥ß¦a¤§¹D¡D¤ê¬X»P­è¡D¥ß¤H
+¤§¹D¡D¤ê¤¯»P¸q¡D³±¶§¥H²Î¨äºë®ð¡D­è¬X¥H«~¨ä¸s§Î¡D¤¯¸q¥H¸g¨ä¨Æ·~¡D
+¬O¹D¤]¡D¬G¤Z¬F¤§¤j¸g¡Dªk±Ð¦Ó¤w¨o¡D±ÐªÌ¡D¶§¤§¤Æ¤]¡DªkªÌ¡D³±¤§²Å¤]
+¡D¤¯¤]ªÌ¡D·O¦¹ªÌ¤]¡D¸q¤]ªÌ¡D©y¦¹ªÌ¤]¡DÂ§¤]ªÌ¡D¼i¦¹ªÌ¤]¡D«H¤]ªÌ¡D
+¦u¦¹ªÌ¤]¡D´¼¤]ªÌ¡Dª¾¦¹ªÌ¤]¡D¬O¬G¦n´c¥H³¹¤§¡D³ß«ã¥H»Y¤§¡D«s¼Ö¥H«ò
+¤§¡D­Y¤D¤GºÝ¤£·^¡D¤GºÝªÌ±Ð»Pªk¤]¤­¼w¤£Â÷¡D¤­¼wªÌ¤¯¸qÂ§´¼«H¤]¤»¸`
+¤£®¯¡D¤»¸`ªÌ¦n´c³ß«ã«s¼Ö¤]«h¤T¤~¤¹§Ç¡D¤­¨Æ¥æ³Æ¡D¦Ê¤u±©Íù¡D±fÁZÄÐ
+º³¡D¤Ñ§@¹D¡D¬Ó§@·¥¡D¦Ú§@»²¡D¥Á§@°ò¡D±©¥ý­õ¤ý¤§¬F¡D¤@¤ê©Ó¤Ñ¡D¤G¤ê
+¥¿¨­¡D¤T¤ê¥ô½å¡D¥|¤ê«ò¥Á¡D¤­¤ê©ú¨î¡D¤»¤ê¥ß·~¡D©Ó¤Ñ±©¤¹¡D¥¿¨­±©±`
+¡D¥ô½å±©©T¡D«ò¥Á±©¶Ô¡D©ú¨î±©¨å¡D¥ß·~±©´°¡D¬O¿×¬FÅé¤]¡D­Pªv¤§³N¡D
+¥ý«Ì¥|±w¡D¤D±R¤­¬F¡D¤@¤ê¡D¤G¤ê¨p¡D¤T¤ê©ñ¡D¥|¤ê°ø¡D¶Ã«U¡D¨pÃaªk¡D
+©ñ¶V­y¡D°ø±Ñ¨î¡D¥|ªÌ¤£°£¡D«h¬F¥½¥Ñ¦æ¨o¡D«U¶Ã«h¹D¯î¡DÁö¤Ñ¦a¤£±o«O
+¨ä©Ê¨o¡DªkÃa«h¥@¶É¡DÁö¤H¥D¤£±o¦u¨ä«×¨o¡D­y¶V«hÂ§¤`¡DÁö¸t¤H¤£±o¥þ
+¨ä¹D¨o¡D¨î±Ñ«h±ý¸v¡DÁö¥|ªí¤£¯à¥R¨ä¨D¨o¡D¬O¿×¥|±w¡D¿³¹A®á¥H¾i¨ä¥Í
+¡D¼f¦n´c¥H¥¿¨ä«U¡D«Å¤å±Ð¥H³¹¨ä¤Æ¡D¥ßªZ³Æ¥HªÃ¨ä«Â¡D©ú½à»@¥H²Î¨äªk
+¡D¬O¿×¤­¬F¡D¥Á¤£¬È¦º¡D¤£¥iÄß¥H¸o¡D¥Á¤£¼Ö¥Í¡D¤£¥iÆ[«öº~®Ñ§@ÄU¦r¥H
+µ½¡DÁö¨Ï¡½¥¬¤­±Ð¡D©SíÙ§@¤h¡D¬F¤£¦æ²j¡D¬G¦b¤WªÌ¡D¥ýÂ×¥Á°]¥H©w¨ä§Ó
+¡D«Ò¯ÑÄy¥Ð¡D«á®áÅú®c¡D°êµL¹C¥Á¡D³¥µL¯î·~¡D°]¤£µê¥Î¡D¤O¤£¦k¥[¡D¥H
+©P¥Á¨Æ¡D¬O¿×¾i¥Í¡D¦¹¬F¤§·í±RªÌ¤@¤]§g¤l©Ò¥H°Ê¤Ñ¦aÀ³¯«©ú¥¿¸Uª«¡D¦Ó
+¦¨¤ýªvªÌ¡D¥²¥»¥G¯u¹ê¦Ó¤w¡D¬G¦b¤WªÌ¼f«h»ö¹D¥H©w¦n´c¡Dµ½´c­n©ó¥\¸o
+¡D·´ÅA®Ä©ó­ãÅç¡DÅ¥¨¥³d¨Æ¡DÁ|¦W¹î¹ê¡DµL©Î¶B¥H¿º¤ß¡D¬G¨ÆµL¤£®Ö¡Dª«
+µL¤£¤Á¡Dµ½µL¤£Åã¡D´cµL¤£¹ü¡D«UµL¦l©Ç¡D¥ÁµL²]­·¡D¦Ê©m¤W¤U¸@§Q®`¤§
+¦s¥G¤v¤]¡D¬GµÂ®¥¨ä¤ß¡D·V­×¨ä¦æ¡D¤º¤£ÊÖ´b¡D¥~µL²§±æ¡D¼{¨ä¸@¥héu©¯
+¡DµL¸o¹L¤£¼~Äß¡D½Ð¿ÖµL©ÒÅ¥¡D°]¸ïµL©Ò¥Î¡D«h¥Á§Ó¥­¨o¡D¬O¿×¥¿«U¡D¦¹
+¬F¤§·í±RªÌ¤G¤]§g¤l¥H±¡¥Î¡D¤p¤H¥H¦D¥Î¡Dºa°dªÌ¡D½à»@¤§ºëµØ¤]¡D¬GÂ§
+±Ðºa°d¥H¥[§g¤l¡D¤Æ¨ä±¡¤]¡DÑèÕÀÃ@¾ë¥H¥[¤p¤H¡Dªv¨ä¦D¤]¡D§g¤l¤£¥Ç°d
+¡Dªp¤_¦D¥G¡D¤p¤H¤£§Ò¦D¡Dªp©ó°d¥G¡D­Y¤Ò¤¤¤H¤§­Û¡D«h¦DÂ§­Ý²j¡D±Ð¤Æ
+¤§¼o¡D±À¤¤¤H¦Ó¼Y¤_¤p¤H¤§°ì¡D±Ð¤Æ¤§¦æ¡D¤Þ¤¤¤H¦Ó¯Ç¤_§g¤l¤§³~¡D¬O¿×
+³¹¤Æ¡D¦¹¬F¤§·í±RªÌ¤T¤]¤p¤H¤§±¡¡D½w«hÅº¡DÅº«h®¡¡D®¡«h«æ¡D«æ«h«è¡D
+«è«h¯`¡D¦M«h¿Ñ¶Ã¡D¦w«h«ä±ý¡D«D«Â±jµL¥HÃg¤§¡D¬G¦b¤WªÌ¡D¥²¦³ªZ³Æ¡D
+¥H§Ù¤£¸·¡D¥H¹K±F­h¡D¦w©~«h±H¤§¤º¬F¡D¦³¨Æ«h¥Î¤§­x®È¡D¬O¿×ªÃ«Â¡D¦¹
+¬F¤§·í±RªÌ¥|¤]½à»@¡D¬F¤§¬`¤]¡D©ú½à¥²»@¡D¼f«H·V¥O¡D½à¥HÄUµ½¡D»@¥H
+Ãg´c¡D¤H¥D¤£¦k½à¡D«D®{·R¨ä¤~¤]¡D½à¦k¦æ«hµ½¤£ÄU¨o¡D¤£¦k»@¡D«D®{·V
+¨ä¦D¤]¡D»@¦k¦æ«h´c¤£Ãg¨o¡D½à¤£ÄU¡D¿×¤§¤îµ½¡D½à¤Î²]¤H«hµ½µL©ÒÄU¦Ó
+µ½ªÌ¤î¨o»@¤£Ãg¡D¿×¤§Áa´c¡D»@¤Îµ½¤H«h´cµL©ÒÃg¦Ó´cªÌÁa¨o¦b¤WªÌ¯à¤£
+¤î¤Uµ½¡D¤£Áa¤U´c¡D«hªv°ê¨o¡D¬O¿×²Îªk¡D¦¹¬F¤§·í±RªÌ¤­¤]¥|±w¬J÷ø¡D
+¤­¬F¬J¥ß¡D¦æ¤§¥H¸Û¡D¦u¤§¥H©T¡DÂ²¦Ó¤£«å¡D²¨¦Ó¤£¥¢¡DµL¤§¡D¨Ï¦Û¬I¤§
+¡DµL¨Æ¨Æ¤§¡D¨Ï¦Û¥æ¤§¡D¤£µÂ¦Óªv¡D«««ý´¥»¹¦Ó®ü¤º¥­¨o¡D¬O¿×¬F¤§¤è¤]
+¡D±©­×¤»«h¥H¥ß¹D¸g¡D¤@¤ê¤¤¡D¤G¤ê©M¡D¤T¤ê¥¿¡D¥|¤ê¤½¡D¤­¤ê¸Û¡D¤»¤ê
+³q¡D¥H¤Ñ¹D§@¤¤¡D¥H¦a¹D§@©M¡D¥H¤¯¼w§@¥¿¡D¥H¨Æª«§@¤½¡D¥H¨­·¥§@¸Û¡D
+¥HÅÜ¼Æ§@³q¡D©ö¶Ç¤ê³q¨äÅÜ¤S¤êÅÜ«h³q¬O¿×¹D¹ê¡D±©«ò¤QÃø¥H¥ô½å¯à¡D¤@
+¤ê¤£ª¾¡D¤G¤ê¤£¶i¡D¤T¤ê¤£¥ô¡D¥|¤ê¤£²×¡D¤­¤ê¥H¤p«è±ó¤j¼w¡D¤»¤ê¥H¤p
+¹LÂJ¤j¥\¡D¤C¤ê¥H¤p¥¢±»¤j¬ü¡D¤K¤ê¥H°P¦l¶Ë©¾¥¿¡D¤E¤ê¥H¨¸»¡¶Ã¥¿«×¡D
+¤Q¤ê¥HÅþ¶ú¼o½å¯à¡D¬O¿×¤QÃø¡D¤QÃø¤£°£¡D«h½å¦Ú¤£¥Î¡D¥Î¦Ú¤£½å¡D«h°ê
+«D¨ä°ê¤]¡D±©¹î¤E­·¥H©w°ê±`¡D¤@¤êªv¡D¤G¤ê°I¡D¤T¤ê®z¡D¥|¤ê¨Ä¡D¤­¤ê
+¶Ã¡D¤»¤ê¯î¡D¤C¤ê«q¡D¤K¤ê¦M¡D¤E¤ê¤`¡D§g¦Ú¿Ë¦Ó¦³Â§¡D¦Ê¹±©M¦Ó¤£¦P¡D
+Åý¦Ó¤£ª§¡D¶Ô¦Ó¤£«è¡DµL¨Æ±©Â¾¬O¥q¡D¦¹ªv°ê¤§­·¤]¡DÂ§«U¤£¤@¡D¦ìÂ¾¤£
+­«¡D¤p¦ÚÅþ¶ú¡D±f¤H§@Ä³¡D¦¹°I°ê¤§­·¤]¡D§g¦nÅý¡D¦Ú¦n¶h¡D¤h¦n¹C¡D¥Á
+¦n¬y¡D¦¹®z°ê¤§­·¤]¡D§g¦Úª§©ú¡D´Â§Êª§¥\¡D¤h¤j¤Òª§¦W¡D±f¤Hª§§Q¡D¦¹
+¨Ä°ê¤§­·¤]¡D¤W¦h±ý¡D¤U¦hºÝ¡Dªk¤£©w¡D¬F¦hªù¡D¦¹¶Ã°ê¤§­·¤]¡D¥H¨×³Õ
+¡D¥H¥ê°ª¡D¥HÀÝ³q¡D¿íÂ§¿×¤§§W¡D¦uªk¿×¤§©T¡D¦¹¯î°ê¤§­·¤]¡D¥H­V±K¡D
+¥H§Q¤½¡D¥H³Î¤U¯à¡D¥Hªþ¤W©¾¡D¦¹«q°ê¤§­·¤]¡D¤W¤U¬Û²¨¡D¤º¥~¬Û»X¡D¤p
+¦Úª§Ãd¡D¤j¦Úª§Åv¡D¦¹¦M°ê¤§­·¤]¡D¤W¤£³X¡D¤U¤£¿Ï¡D°ü¨¥¥Î¡D¨p¬F¦æ¡D
+¦¹¤`°ê¤§­·¤]¡D¬G¤W¥²¹î¥G°ê­·¤]¡D±©·V±fº»¥H¬L¤H±¡¡D¤Ñ¦a¤§¤j¼w¤ê¥Í
+¡D©ö¨tÃã¤å¸Uª«¤§¤j·¥¤ê¦º¡D¬x½d¤»·¥¤@¤ê¤¿µu§é¦ºªÌ¤£¥i¥H¥Í¡D¦DªÌ¤£
+¥i¥H½Æ¡D¬G¥ý¤ý¤§¦D¤]¡D©x®v¥H¦¨¤§¡D´Æºi¥HÂ_¤§¡D©PÂ§´Â¤h´x«Ø¨¹¥~´Â
+¤§ªk¥ª¤E´Æ©t­ë¤j¤Ò¦ì²j¸s¤h¦b¨ä«á¥k¤E´Æ¤½«J§B¤l¨k¦ì²j¤S¤ý¨î¤ê¦¨º»
+Ãã¥v¥Hº»¦¨§i¤_¤j¥q±F¤j¥q±FÅ¥¤§À»¤ì¤§¤U±¡°T¥H¼e¤§¡D´Â¥«¥H¦@¤§¡D¬á
+«s¥H«ò¤§¡D¦D´µÂ_¡D¼Ö¤£Á|¡D¬I¦D¤§¤é«h¦¢Äa·V¤§¦Ü¤]¡D¦D«v¦D«v¡D¨ä·V
+¨o¤Ò¡D±©½]¤­³j¥H¸k¥Á¤¤¡D¤@¤ê­ì¤ß¡D¤ß¥i¬á¤]¤G¤ê©ú¼w¡D¼w¥iÄÀ¤]¤T¤ê
+ÄU¥\¡D¥\¥i­ã¤]¥|¤ê½Ç¤Æ¡D¤Æ©ÒÃö¤]¤­¤êÅv­p¡DÅv®É¤§©y«D±`¨å¤]¤Z¥ý¤ý
+¤§§ñ³j¡D¥²¬O±Ú¤]¡D«D¬O±Ú²j¡D¦D¯÷µL³j¡D±ÚÃþ¤]¤Ñ¤l¦³¥|®É¡D´Â¥HÅ¥¬F
+¡D±Þ¥H³X°Ý¡D¤i¥H­×¥O¡D©]¥H¦w¨­¡D¤W¦³®v³Å¡D¤U¦³¿P¦Ú¡D¤j«hÁ¿·~¡D¤p
+«h¿Ô¸ß¡D¤£©Úª½Ãã¡D¤£®¢¤U°Ý¡D¤½¨p¤£·^¡D¥~¤º¤£¶L¡D¬O¿×¦³¥æ¡D°Ý©ú©ó
+ªvªÌ¨ä²Îªñ¡D¸Uª«¤§¥»¦b¨­¡D¤Ñ¤U¤§¥»¦b®a¡Dªv¶Ã¤§¥»¦b¥ª¥k¡D¤º¥¿¥ß¦Ó
+¥|ªí©w¨o¡D°Ý³q©ó¹DªÌ¨ä¦u¬ù¡D¦³¤@¨¥¦Ó¥i±`¦æªÌ¡D®¤¤]¡D¦³¤@¦æ¦Ó¥i±`
+¼iªÌ¡D¥¿¤]¡D®¤ªÌ¡D¤¯¤§³N¤]¡D¥¿ªÌ¡D¸q¤§­n¤]¡D¦Ü«v¡D¦¹¿×¹D®Ú¡D¸U¤Æ
+¦s²jº¸¡D¬O¿×¤£«ä¦Ó±o¡D¤£¦Ó¦¨¡D°õ¤§¯Ý¤ß¤§¶¡¡D¦Ó¥\ÂÐ¤Ñ¤U¤]¡D¦Û¤Ñ¤l
+¹F¤_±f¤H¡D¦n´c«s¼Ö¡D¨ä­×¤@¤]¡DÂ×¬ù³Ò§H¡D¦U¦³¨ä¨î¡D¤W¨¬¥H³ÆÂ§¡D¤U
+¨¬¥H³Æ¼Ö¡D¤Ò¬O¿×¤j¹D¡D¤Ñ¤U°ê®a¤@Åé¤]¡D§g¤¸­º¡D¦ÚªÑªÐ¡D¥Á¤â¨¬¡D¤U
+¦³¼~¥Á¡D«h¤W¤£ºÉ¼Ö¡D¤U¦³ÄÈ¥Á¡D«h¤W¤£³Æ¿¯¡D¤U¦³´H¥Á¡D«h¤W¤£¨ãªA¡D
+®{àn¦Ó««Ù~¡D«DÂ§¤]¡D¬G¨¬´H¶Ë¤ß¡D¥Á´H¶Ë°ê¡D°Ý§g¥H¦Ü¬ü¤§¹D¹D¥Á¡D¥Á
+¥H¦Ü¬ü¤§ª«¾i§g¡D§g­°¨ä´f¡D¥Á¤É¨ä¥\¡D¦¹µL©¹¤£´_¡D¬Û³ø¤§¸q¤]¡D¬G¤Ó
+¥­³Æª«¡D«D·¥±ý¤]¡Dª«·lÂ§Âö¡D«DÁ¾¬ù¤]¡D¨ä¼Æ¶³¦Õ¡D°Ý¤H¥D¦³¤½½áµL¨p
+¨D¡D¦³¤½¥ÎµL¨p¶O¡D¦³¤½§ÐµL¨p¨Ï¡D¦³¤½½çµL¨p´f¡D¦³¤½«ãµL¨p«è¡D¨p¨D
+«h¤U·Ð¦ÓµL«×¡D¬O¿×¶Ë²M¡D¨p¶O«h©x¯Ó¦ÓµL­­¡D¬O¿×¶Ë¨î¡D¨p¨Ï«h¥Á¼¸ÂZ
+¦ÓµL¸`¡D¬O¿×¶Ë¸q¡D¨p´f«h¤Uµê±æ¦ÓµL­ã¡D¬O¿×¶Ë¥¿¡D¥¿¿×½ç¤©¤§¥¿¨p«è
+«h¤UºÃÄß¦Ó¤£¦w¡D¬O¿×¶Ë¼w¡D°Ýµ½ªv¥ÁªÌ¡Dªv¨ä©Ê¤]¡D©Î¤ê¡D§Mª÷¦Ó¬y¡D
+¥h¤õ«h­è¡D¿E¤ô¦Ó¤É¡DªÙ¤§«h­°¡D´c¥­Án¥Gªv¡D¤ê¡D¤£¥h¨ä¤õ«h±`¬y¡D¿E
+¦Ó¤£¤î«h±`¤É¡D¬G¤j§M¤§Äl¡D¥i¨ÏµL­è¡D«h¿ã¤ô¤§¾÷¡D¥i¨ÏµL­°¡Dµ½¥ß±Ð
+ªÌ­Y¯÷¡D«h²×¨­ªv¨o¡D¬G¤Z¾¹¥i¨Ï»P¥T¦PÁÍ¡D§ë¦Êª÷©ó«e¡D¥Õ¤b¥[¨ä¨­¡D
+Áö¥¨ðù¥±´±Õs¤]¡Dµ½¥ßªkªÌ­Y¯÷¡D«h²×¨­¤£Õs¨o¡D¬Gðù¥i¨Ï»P§B¦i¦P¥\¡D
+°Ý¥Á¥Ñ¤ô¤]¡DÀÙ¤j¤tªÌ¡D¤Ó¤W­¼¦à¡D¨ä¦¸ªs¡Dªs¯B¦æ¤ô¤W¤]ªsªÌ³Ò¦Ó¦M¡D
+­¼¦àªÌ¶h¦Ó¦w¡Dµê¤J¤ô«h¥²·Ä¨o¡D¥Hª¾¯àªv¥ÁªÌ¡Dªs¤]¡D¥H¹D¼wªv¥ÁªÌ¡D
+¦à¤]¡DÁa¥Á¤§±¡¿×¤§¶Ã¡Dµ´¥Á¤§±¡¿×¤§¯î¡D¤ê¡DµM«h¦p¤§¦ó¡D¤ê¡D¤§­­¡D
+¨Ï¥±¶V¤]¡D¤§¦a¥ç¤Å¶V¡D¬G¤ô¥i¨Ï¤£ÀÝ¡D¤£¥i¨ÏµL¬y¡Dµ½¸TªÌ¡D¥ý¸T¨ä¨­
+¦Ó«á¤H¡D¤£µ½¸TªÌ¡D¥ý¸T¤H¦Ó«á¨­¡Dµ½¸T¤§¦Ü©ó¤£¸T¡D¥O¥ç¦p¤§¡D­Y¤D¸v
+±¡©ó¨­¦ÓÃ·±ý©ó¡D¦æ¶B©ó©x¦Ó¬á¹ê©ó¥Á¡D¨D¤v¤§©Ò¦³¾l¡D¹Ü¤U¤§©Ò¤£¨¬¡D
+ªÙ¤v¤§©Ò©ö¡D³d¤H¤§©ÒÃø¡D«è¤§¥»¤]¡D¿×²z¤§·½´µµ´¨o¡D¦Û¤W¿m¤U¡DµS¤Ò
+³¨ªÌ²j¡DÁô©ó¤â¡D«ö¤â¤U·í¦³¦Ó¦rÀ³©ó¡D«h¥i¥H±o³½¡D¦Ûªñ¿m»·¡DµS¤Ò¿m
+°¨²j¡D©M¤_¤â¦Ó½Õ©ó»Î¡D«h¥i¥H¨Ï°¨¡D¬G¦Ü¹D¤§­n¡D¤£©ó¨­«D¹D¤]¡D¸@À©
+¤l¤§ÅXÂû¤]¦Ó¨£¿m¥Á¤§¤è¡DÀ©¤lÅXÂûªÌ¡D«æ«hÅå¡D½w«hº¢¡D¤è¨ä¥_¤]¡DÁØ
+­n¤§«h§é¦Ó¹L«n¡D¤è¨ä«n¤]¡DÁØ­n¤§«h§é¦Ó¹L¥_¡D­¢«h­¸¡D²¨«h©ñ¡D§Ó¶~
+«h¤ñ¤§¡D¤ñªñ¤]’BÂû§Ó¶~µM«áªñ¤§«h¤£Åå¬y½w¦Ó¤£¦w«h­¹¤§¡D­¹¤§«h¤£º¢
+¤£ÅX¤§ÅX¡DÅX¤§¦ÜªÌ¤]¡D§Ó¦w«h´`¸ô¦Ó¤Jªù¡D¤Ó¤W¤£ªÅ¥«¡D¨ä¦¸¤£°½ÅÑ¡D
+¨ä¦¸¤£±°¹Ü¡D¤W¥H¥\´f¸k¥Á¡D¤U¥H°]¤O©^¤W¡D¬O¥H¤W¤U¬Û»P¡DªÅ¥««h¥Á¤£
+»P¡D¥Á¤£»P«h¥©¶B¦Ó¨ú¤§¡D¿×¤§°½ÅÑ¡D°½ÅÑ«h¥Á³Æ¤§¡D³Æ¤§¦Ó¤£±o¡D«h¼É
+­¢¦Ó¨ú¤§¡D¿×¤§±°¹Ü¡D¥Á¥²¥æª§¡D«hº×¶Ã¨o¡D©Î¤ê¡D¸t¤ý¥H¤Ñ¤U¼Ö¡D¤ê¡D
+§_¡D¸t¤ý¥H¤Ñ¤U¼~¡D¤Ñ¤U¥H¸t¤ý¼Ö¡D¤Z¥D¥H¤Ñ¤U¼Ö¡D¤Ñ¤U¥H¤Z¥D¼~¡D¸t¤ý
+©}¤v¥H¥Ó¤Ñ¤U¤§¼Ö¡D¤Z¥D¦ù¤v¥H©}¤Ñ¤U¤§¼~¡D¥Ó¤Ñ¤U¤§¼Ö¡D¬G¼Ö¥ç³ø¤§¡D
+©}¤Ñ¤U¤§¼~¡D¬G¼~¥ç¤Î¤§¡D¤Ñ¤U¤§¹D¤]¡Dªv¥@©Ò¶Q¥G¦ìªÌ¤T¡D¤@¤ê¹F¹D©ó
+¤Ñ¤U¡D¤G¤ê¹F´f©ó¥Á¡D¤T¤ê¹F¼w©ó¨­¡D°I¥@©Ò¶Q¥G¦ìªÌ¤T¡D¤@¤ê¥H¶Q°ª¤H
+¡D¤G¤ê¥H´I©^¨­¡D¤T¤ê¥H³ø¸v¤ß¡Dªv¥@¤§¦ì¡D¯u¦ì¤]¡D°I¥@¤§¦ì¡D«h¥Í¨a
+¨o¡D­e°ª¤H¡D«h¥²·l¤§¡D¨a¤]¡D­e©^¨­¡D«h¥²¿ò¤§¡D¨a¤]¡D­e¸v¤ß¡D«h¥²
+§_¤§¡D¨a¤]¡Dªv¥@¤§¦Ú¡D©Ò¶Q¥G¶¶ªÌ¤T¡D¤@¤ê¤ß¶¶¡D¤G¤êÂ¾¶¶¡D¤T¤ê¹D¶¶
+¡Dªv¥@¤§¶¶¡D¯u¶¶¤]¡D°I¥@¤§¶¶¡D¥Í°f¤]¡DÅé­e¶¶«h°f¸`¡D¶Ã­e¶¶«h°f©¾
+¨Æ­e¶¶«h°f¹D¡D°ª¤U¥¢§Ç«h¦ì»´¡D¯Z¯Å¤£©T«h¦ì»´¡Dº~Àï¦³¤G¤Q¯Å¸SÁ¡¨õ
+Ãd«h¦ì»´¡D©xÂ¾¹ð§ï«h¦ì»´¡D¾EÂà·ÐÂp«h¦ì»´¡DÂJÔF¤£©ú«h¦ì»´¡D«Ý¦Ú¤£
+¥HÂ§«h¦ì»´¡D¤Ò¦ì»´¦Ó¬F­«ªÌ¡D¥¼¤§¦³¤]¡D¸t¤H¤§¤jÄ_¤ê¦ì¡D»´«h³à§^Ä_
+¤]¡D¦n´c¤§¤£¦æ¡D¨ä«U©|¨o¡D¹Å¦u¸`¦Ó»´¯U­®¡D¯e«ÂºÖ¦Ó´LÅv¥k¡D½â¨D±ý
+¦Ó±R§JÀÙ¡D¶Q¨D¤v¦ÓºaµØÅA¡D¸Uª«Ãþ¬O¤w¡D¤Ò¤ß»P¨¥¡D¨¥»P¨Æ¡D°Ñ¬ÛÀ³¤]
+¡D¦n´c·´ÅA½à»@¡D°Ñ¬ÛºÖ¤]¡D¤»ªÌ¦³¥¢¡D«h¹ê¶Ã¨o¡D¦u¹êªÌ¯qºa¡D¨D¤vªÌ
+¯q¹F¡D³B«ÕªÌ¯q©ú¡DµM«á¥Áª¾¥»¤]¡D
+
+®É¨Æ²Ä¤G
+
+³Ì¤Z¦³¤G¤Q¤@­º¡D¨äªì¤G­º©|ª¾¶Q´°¤]¡D¨ä¤G­º¦³¥Ó­«¥iÁ|ªÌ¡D¤Q¦³¤E¨Æ
+¡D¤@¤ê©ú¦Ò¸Õ¡D¤G¤ê¤½­ë¤£©ë°p¡D¤G¤d¥Û¤£©ë¿¤¡D¤T¤ê¸m¤WªZ¤§©x¡D¥|¤ê
+Ä³¦{ªª¡D¤­¤ê¥Í¦D¦Ó¦ºªÌ¡D¦ý¥[¦×¦D¡D¤»¤ê¼w¦D¨Ã¥Î¡D¤C¤êÁ×øA¦³¬ì¡D¤K
+¤êÄ³¸S¡D¤E¤êÄ³±M¦a¡D¤Q¤êÄ³¿ú³f¡D¤Q¤@¤ê¬ùªÁÁ|­«¡D¤Q¤G¤ê¤Ñ¤H¤§À³¡D
+¤Q¤T¤ê¤ë¥¿Å¥´Â¡D¤Q¥|¤ê±R¤º±Ð¡D¤Q¤­¤ê³Æ³Õ¤h¡D¤Q¤»¤ê¦Ü¼w­n¹D¡D¤Q¤C
+¤ê¸T¼Æ³j¥O¡D¤Q¤K¤ê¥¿©|¥D¤§¨î¡D¤Q¤E¤ê½Æ¤º¥~ª`°OªÌ¡D½L©°¾E®ï¡D­²°ø
+§Y¬ù¡D¤Æ¦Óµô¤§¡D»P®É®ø®§¡D¹è¬Õµê¡D¤£±`³Ö¹D¡D©|ª¾¶Q´°¡D¥j¤µ¤§ªk¤]
+¡D¥Á¹è«h¥Î©ö¨¬¡D¤g¼s«hª«©ö¥Í¡D¨ÆÂ²«h·~©ö©w¡D¹½¶Ã«h«äªv¡D³ÐÃø«h«ä
+ÀR¡D©Î¤ê¡D¤T¬Ó¥Á¦Ü´°¤]¡D¨äªv¦Ü²M¤]¡D¤Ñ©Ê¥G¡D¤ê¬Ó¥Á´°¡D¯³¥Á¹ú¡D®É
+¤]¡D¤s¥Á¾ë¡D¥«¥Áª±¡D³B¤]¡D®å¬ô¤£©ö¥Á¦Ó¶Ã¡D´öªZ¤£©ö¥Á¦Óªv¡D¬F¤]¡D
+¬Ó¥Á¹è¡D¹è´µ´°¡D¬Óªv¯Â¡D¯Â´µ²M¡D®O±©©Ê¡D¤£¨DµL¯q¤§ª«¡D¤£»WÃø±o¤§
+³f¡D¸`µØÄR¤§¹¢¡D°h§Q¶i¤§¸ô¡D«h¥Á«U²M¨o¡DÂ²¤p§Ò¡D¥h²]ªÁ¡Dµ´©_©Ç¡D
+«h§¯®§¨o¡D­Pºë¸Û¡D½Ñ¨D¤v¡D¥¿¤j¨Æ¡D«h¯«©úÀ³¨o¡D©ñ¨¸»¡¡D¥h²]´¼¡D§í
+¦Ê®a¡D±R¸t¨å¡D«h¹D¸q©w¨o¡D¥h¯BµØ¡DÁ|¥\¹ê¡Dµ´¥½É«¡D¦P¥»°È¡D«h¨Æ·~
+­×¨o¡D¦¹ªì¤G­º©Ò¿×©|ª¾¶Q´°¤]½Ö·´½ÖÅA¡DÅA¨ä¦³¸ÕªÌ¡D¸U¨Æ¤§·§¶q¤]¡D
+¥Ø¯÷Á|ªÌ¸Õ¨ä¨Æ¡D³B´µÂ¾ªÌ¦Ò¨äÁZ¡D½à»@¥¢¹ê¡D¥H´c¤Ï¤§¡D¤H²j¹¢«v¡D»y
+¤ê¡Dµsðù¤£¯àµs¥Ð¤Ø¤o¡D¤o¤£¥iµs¡Dªp¤Ø¥G¡D¤Ò¨ÆÅç¡D¥²­Y¤g¥Ð¤§±i©ó³¥
+¤]¡D«h¨pªÌ¹è¨o¡D¥|¥¬©ó³¥¤£¥iÁôªÌ³ë´c¤£¥i±»¤]­Y¶Ã¤§¼Y©ó¿D¤]¡D«h¥i
+«HªÌ¸Ñ¨o¡D¶Ã¦¶¤l¤ê¦à¤§ºI¬y¾î´çªÌ¿D¡½¤ºªñ¤ô¤§¦àµn¤_³°¤£¥i«HªÌ³ëµ½
+¤£¥i¤]¬G¦³¨Æ¦Ò¥\¡D¦³¨¥¦Ò¥Î¡D°Ê«h¦Ò¦æ¡DÀR«h¦Ò¦u¡D¦¹¤@­º©Ò¿×©ú¦Ò¸Õ
+¤]¤½­ë¤£°p¡D¤G¤d¥Û¤£¿¤¡D¥¼¬O¤]¡D¤p¯à¨äÂ¾¡D¥H·¥µn©ó¤j¡D¬G¤U¦ìÄv¡D
+¤j¾ø¨ä¥ô¡D¥H¼Y©ó¤U¡D¬G¤W¦ì·V¡D¨ä¹©ÂÐ¦D²j¡D¦ó¼ª©ó­°¡D©ö¹©¤E¥|¤ê¹©
+§é¨¬ÂÐ¤½èÄ¨ä§Î´ì¤¿¦¹¨¥¤j¦Ú¼oÃa°ê¨Æ¦D¤§©|¥i¦óªp­°¦ì­Y¤Ò¤d¨½¤§¥ô¡D
+¤£¯à¥R©ó°p¡D¦Ó¿¤¨¶¤§¥\¼o¡D±¤¨o«v¡D¤£¥H¹LÂ¾²Ò«h¤Å­°¡D©Ò¥HÀu½å¤]¡D
+¥H¹LÂ¾²Ò«h­°¡D©Ò¥HÃg·^¤]¡D¦¹¤@­º©Ò¿×¤½­ë¤£©ë°p¤G¤d¥Û¤£§¡¿¤¤]§µªZ
+¬Ó«Ò¥H¥|¦i¥¼»«¡D±F¸é¦lÉs¡Dªì¸mªZ¥\¡D½à©x¥HÃd¾Ô¤h¡D­Y¤µ¨Ì¦¹¬ì¦Ó±R
+¨ä¨î¡D¸m©|ªZ¤§©x¡D¥H¥q°¨§Lªk¡D¿ï¦ì¯´¤ñ³Õ¤h¡DÁ¿¥q°¨¤§¨å¡DÂ²·j¬¼¤§
+¨Æ¡D´x­x¥\Àï½à¡D¤p²Î©ó¤­®Õ¡D¤j²Î¤_¤Ó±L¡D¬J©P®É°È¡DÂ§¥ç©y¤§¡D©P¤§
+¥½¸­¡D§L­²Ác¨o¡D²ö¶Ã¤_¯³¡D¥Á¤£¯îÏf¡D¤µ°ê®a§Ñ¾Ô¤é¤[¡D¨C±FÃø¤§§@¡D
+¥Á·ñ´XºÉ¡D¤£±Ð¥Á¾Ô¡D¬O¿×±ó¤§¡D«H¨o¡D¦¹¤@­º©Ò¿×¸m©|ªZ¤§©x¤]©Î°Ý¤ê
+¡D¦{ªª¨ë¥vºÊ¹î¿m¥v¡D¤T¨î±EÀu¡D¤ê¡D®É¨î¦Ó¤w¡D¤ê¡D¤Ñ¤U¤£¬J©w¨äªª¥G
+¡D¤ê¡D¥j½Ñ«J«Ø°ê®a¡D¥@¦ìÅv¬`¦s²j¡D©ó¬O¸m½Ñ«J¤§½åªÌ¥Hªª¡DÁ`¨ä¬öºõ
+¦Ó¤w¡D¤£²Î¨ä¬F¡D¤£¿m¨ä¥Á¡D¤µ°p¿¤µL±`¡DÅv»´¤£©T¡D¦Ó¦{ªªªÃ¨äÅv­«¡D
+¶Õ²§¤_¥j¡D«D©Ò¥H±j·F®zªK¤]¡D¦ÓµL¯qªv¥Á¤§¹ê¡DºÊ¹î¿m¥v´µ¥i¤]¡D­YÅv
+®É¤§©y¡D«h²§½×¤]¡D¦¹¤@­º©Ò¿×Ä³¦{ªª¤]¦×¦D¥j¤]¡D©Î¤ê¡D½Æ¤§¥G¡D¤ê¡D
+¥jªÌ¡D¤H¥Á²±²j¡D¤µ¤]¦Ü¹è¡D¾ã¥H«Â¡D¼¾¹è¥H¼e¡D¹D¤]¡D½Æ¦D«D°È¥²¤]¡D
+¥Í¦D¦Ó·¥¦ºªÌ¡D½Æ¤§¥i¤]¡D¦p±Ù¥k³k¥»¥Í¦D¤]¦Ó§ï±ó¥««h·¥¦º¨o´µ«h±Ù¥k
+³k¤§¦D½Æ¤§¥i¤]¦Û¥j¦×¦D¤§°£¤]¡D±Ù¥k³kªÌ¦º¤]¡D±©½Æ¦×¦D¡D¬O¿×¥Í¦º¦Ó
+®§¥Á¡D¦¹¤@­º©Ò¿×¥Í¦D¦Ó¦ºªÌ¦ýª¾¦×¦D¤]°Ý¼w¦D¨Ã¥Î¡D±`¨å¤]¡D©Î¥ý©Î«á
+¡D®É©y¡D¦D±Ð¤£¦æ¡D¶Õ·¥¤]¡D±Ðªì¥²Â²¡D¦D©l¥²²¤¡D¨Æº¥¤]¡D±Ð¤Æ¤§¶©¡D
+²ö¤£¿³¦æ¡DµM«á³d³Æ¡D¦Dªk¤§©w¡D²ö¤£Á×¸o¡DµM«á¨D±K¡D¥¼¥i¥H³Æ¡D¿×¤§
+µê±Ð¡D¥¼¥i¥H±K¡D¿×¤§®m¦D¡Dµê±Ð¶Ë¤Æ¡D®m¦D®`¥Á¡D§g¤l¥±¥Ñ¤]¡D³]¥²¹H
+¤§±Ð¡D¤£¶q¥Á¤O¤§¥¼¯à¡D¬O©Û¥Á©ó´c¤]¡D¬G¿×¤§¶Ë¤Æ¡D³]¥²¥Ç¤§ªk¡D¤£«×
+¥Á±¡¤§¤£³ô¡D¬O³´¥Á©ó¸o¤]¡D¬G¿×¤§®`¥Á¡D²ö¤£¿³¦æ¡D«h¤@²@¤§µ½¥i±o¦Ó
+ÄU¤]¡DµM«á±Ð³Æ¡D²ö¤£Á×¸o¡D«hÅÖ¤¶¤§´c¡D¥i±o¦Ó¸T¤]¡DµM«á¦D±K¡D¦¹¤@
+­º©Ò¿×¼w¦D¨Ã¥Î¤]©Î°Ý½ÆøA¥j¸q¤]¡D¤ê¡DÁa½ÆøA¥i¥G¡D¤ê¡D¤£¥i¡D¤ê¡DµM
+«h¦p¤§¦ó¡D¤ê¡D¦³Áa¦³¸T¡D¦³¥Í¦³±þ¡D¨î¤§¥H¸q¡DÂ_¤§¥Hªk¡D¬O¿×¸qªk¨Ã
+¥ß¡D¤ê¡D¦ó¿×¤]¡D¨Ì¥j½ÆøA¤§¬ì¡D¨Ï¤÷øAÁ×½Ñ²§¦{¤d¨½¡D¥S§Ì¤§øA¡DÁ×½Ñ
+²§°p¤­¦Ê¨½¡D±q¤÷±q¥S§Ì¤§øA¡DÁ×½Ñ²§¿¤¦Ê¨½¡D¥±Á×¦Ó³øªÌµL¸o¡DÁ×¦Ó³ø
+¤§±þ¡D¥Ç¤ý¸TªÌ¸o¤]¡D½ÆøAªÌ¸q¤]¡D¥H¸q³ø¸o¡D±q¤ý¨î¡D¶¶¤]¡D¥Ç¨î¡D°f
+¤]¡D¥H°f¶¶¥Í±þ¤§¡D¤Z¥H¤½©R¦æ¤îªÌ¡D¤£¥±Á×¡D¦¹¤@­º©Ò¿×Á×øA¦³¬ì¤]©Î
+°Ý¸S¡D¤ê¡D¥j¤§¸S¤]³Æ¡Dº~¤§¸S¤]»´¡D¤Ò¸S¥²ºÙ¦ì¡D¤@ª«¤£ºÙ¡D«D¨î¤]¡D
+¤½¸S¶S«h¨p§Q¥Í¡D¨¥¤ë­Ä¶S·l«h¸ì¸ô¦æ¨o¨p§Q¸S¡D«h·GªÌ¹¼¦Ó³gªÌÂ×¤]¡D
+¤ÒÂ×³g¥Í¨p¡D¹¼·G¶S¤½¡D¬O¶Ã¤]¡D¥ý¤ý­«¤§¡D¤ê¡D¸S¥i¼W¥G¡D¤ê¡D¥Á®a°]
+·^¡D¼W¤§©y¨o¡D©Î¤ê¡D¤µ¸S¦p¦ó¡D¤ê¡D®É¹¼¤]¡D¸S¨Ì­¹¡D­¹¨Ì¥Á¡D°Ñ¬Û¿F
+¡D¥²¤]¥¿³g¸S¡D¬Ù¶~¤¾¡D»P®É®ø®§¡D¬L´f«ò¤U¡D·l¯q¥H«×¥i¤]¡D¦¹¤@­º©Ò
+¿×Ä³¸S¤]½Ñ«J¤£±M«Ê´I¤H¡D¥Á¥ÐëÆ­­¡D´I¹L¤½«J¡D¬O¦Û«Ê¤]¡D¤j¤Ò¤£±M¦a
+¡D¤H½æ¶R¥Ñ¤v¡D¬O±M¦a¤]¡D©Î¤ê¡D½Æ¤«¥Ð»P¡D¤ê¡D§_¡D±M¦a«D¥j¤]¡D¤«¥Ð
+«D¤µ¤]¡DµM«h¦p¤§¦ó¡D¤ê¡D¯Ñ¦Ó¤Å¦³¡D¥H«S¨î«×¥i¤]¡D¯Ñ¦Ó¤Å¦³¤£±o½æ¶R
+¥Ñ¤v¥H«S¨î«×¤£±oëÆ­­¤]¦¹¤@­º©Ò¿×Ä³±M¦a¤]©Î°Ý³f¡D¤ê¡D¤­»Ë¤§¨î©y¨o
+¡D¤ê¡D¤µ¼o¡D¦p¤§¦ó¡D¤µ¿×Äm«Ò®É¼oªÌªì¥­¤¸¦~¸³¨ôÃa¤­»Ë¿ú§óÅ±¤p¿ú¬O
+¤]¤ê¡D®ü¤º¬J¥­¡D¦æ¤§¦Ó¤w¡D¨¥¨ô¬J¸Ý¦¹¨î©y½Æ¤ê¡D¿ú´²¨o¡D¨Ê½Bµê¨o¡D
+¨ä¶Õ¥²¿n¤_»·¤è¡D­YªG¦æ¤§¡D«h©¼¥HµL¥Î¤§¿ú¡D¥«§^¦³¥Î¤§ª«¡D¬O¹¼ªñ¦Ó
+Â×»·¤]¡D¤ê¡D¨Æ¶Õ¦³¤£±o¡D©x¤§©Ò«æªÌ½\¤]¡D¤û°¨¤§¸T¡D¤£±o¥X¦Ê¨½¤§¥~
+¡D­Y¨ä¥Lª«¡D©¼¥H¨ä¿ú¨ú¤§¥ª¡D¥Î¤§©ó¥k¡D¶T¾E¦³µL¡D©P¦Ó³q¤§¡D®ü¤º¤@
+®a¡D¦ó±w²j¡D¤ê¡D¿ú¹è¨o¡D¤ê¡D¿ú¹è¥Á©ö¨o¡D­Y¿ú¬J³q¦Ó¤£©P©ó¥Î¡DµM«á
+©xÅ±¦Ó¸É¤§¡D©Î¤ê¡D¦¬¥Á¤§ÂÃ¿úªÌ¡D¿é¤§©xªª¡D»·¿é¤§¨Ê®v¡DµM«á¦æ¤§¡D
+¤ê¡D¨ÆªP¦ÓÃø¹êªÌ¡D´ÛºC¥²¡D¦l¥²§@¡Dª§³^¥²Ác¡D¦D±þ¥²²`¡DÆ~¶Ø¡D¯ÉÂZ
+¤§Án¡D³¹¥G¤Ñ¤U¨o¡D«D©Ò¥H¼¾¿ò¥Á¡D¦¨½rº³¤]¡D¤ê¡DµM«h¦¬¦Ó¿n¤§»P¡D¤ê
+¡D³q¥«¨ä¥i¤]¡D¦¹¨¥¦¬¤­»Ë¿n¶J¥ç¤£¥i©Î¤ê¡D§ïÅ±¥|»Ë¡D¤ê¡DÃø¨o¡D¦¹¨¥
+§ïÅ±¥|»Ë¥H½Æ§µ¤å¤§ÂÂ¥ç¤£¥i©Î¤ê¡D¹E¼o¤§¡D¤ê¡D¿ú¹ê«K©ó¨Æ¥Î¡D¥Á¼Ö¦æ
+¤§¡D¸T¤§Ãø¡D¤µ¶}Ãø¥O¥Hµ´«K¨Æ¡D¸T¥Á©Ò¼Ö¡D¤£­Z¨o¡D¤ê¡D°_¦Ó¦æ¤§¡D¿ú
+¤£¥i¡D¦p¤§¦ó¡D¤ê¡D©|¤§¼o¤§¡D¥±±o¤w¡D¦ó¼~²j¡D¨¥©Î©|©Î¼o¨ä¶Õ¦Û¦³©Ò
+¤£±o¤wªÌ³Ö«á±ä¾Þ¬ÛÁÙ¥Î¤­»Ë®®¤§¨¥Åç¨o¦¹¤@­º©Ò¿×Ä³¿ú³f¤]¸t¤ý¥ý¦¨¥Á
+¦Ó«á­P¤O©ó¯«¡D¥Á¨Æ¥¼©w¡D°pªÁ¦³Âö¡D¤£¤×¨o¡D¥²¤]Á|¨ä­«¦ÓªÁ¤§¡D±æªÁ
+¤­À®¥|Âp¡D¨ä¯«¤§ªÁ¡D¿¤¦³ÂÂ±`¡D­Y¤µ°pªÁ¤§¡D¦Ó¨äªÁÂ§ª«¡D±qÂA¥i¤]¡D
+¿×Â§ª«©y±q¬Ù²¤Â§­«¥»¡D¥Ü¥Á¤£°½¡D¥B¬L¨åª«¡D¨ä³Æª«¥HÂ×¦~¡D¤é¤ë¤§¨a
+­°²§¡D«DÂÂ¤]¡D¦¹¤@­º©Ò¿×¬ùªÁÁ|­«¤]¤Ñ¤H¤§À³¡D©Ò¥Ñ¨Óº¥¨o¡D¬G¼iÁ÷°í
+¦B¡D«D¤@®É¤]¡D¥ò¥§¤§Ã«¡D«D¤@´Â¤]¡D¥B¤é­¹¦æ¨Æ¡D©Î¸Y©ÎÃm¡D¤@¦~¤G¥æ
+¡D«D¨ä±`¤]¡D¬x½d¶Ç¶³¡D¤»ÍB§@¨£¡D­Y¬O¤ý³£¥¼¨£¤§¡DµL»D²jº¸¡D©x­×¨ä
+¤è¡D¦Ó¥ý¤ý¤§Â§¡D«O³¹µøÚÔ¡D¦w¦v±Ô­°¡D¥²®Ñ¶³ª«¡D³Æ¬G¤]¡D¤Ó¥v¤W¨ÆµL
+Áô²j¡D¤Å¹ì¥i¤]¡D¦¹¤@­º©Ò¿×¤Ñ¤H¤§À³¤]¤Ñ¤l«n­±Å¥¤Ñ¤U¡D¦V©ú¦Óªv¡D»\
+¨ú½ÑÂ÷¡D©ö¨tÃã¤Ñ¤§¹D¤]¡D¤ë¥¿Å¥´Â¡D°ê®a¤§¤j¨Æ¤]¡D©y¥¿¨ä»ö¡D¥H©úÂÂ
+¨å¡D¦¹¤@­º©Ò¿×¤ë¥¿Å¥´Â¤]¥j¦³´x³±¶§¤§Â§¤§©x¡D¥H±Ð«á®c¡D´x°ü¾Ç¤§ªk
+¡D°ü¼w°ü¨¥«ö¦¹·í¦³°ü®e¤G¦r°ü¥\¡D¦U²v¨äÄÝ¡D¦Ó¥H®É¿m§Ç¤_¤ý¡D¥ý¤ýÂ§
+¤]¡D©y±R¨ä±Ð¥H¥ý¤º¬F¡DÄý¦C¹Ï»w¦C¶Ç¿í¨å¦æ¡D¤º¥v°õ¨ä§ÍºÞ¡D°Oµ½®Ñ¹L
+¡D¦Ò¦æÂJÔF¡D¥H³¹¦n´c¡D¨k¤k¥¿¦ì¥G¤º¥~¥¿®a¦Ó¤Ñ¤U©w¨o¡D¬G¤G»ö¥ß¦Ó¤j
+·~¦¨¡D§g¤l¤§¹D¡D­êÂö²×¤é¡D³y¦¸¥²©ó¬O¡D¦¹¤@­º©Ò¿×±R¤º±Ð¤]³Æ³Õ¤h¡D
+¼s¤Ó¾Ç¡D¦ÓªÁ¤Õ¤l²j¡DÂ§¤]¡D¥ò¥§§@¸g¡D¥»¤@¦Ó¤w¡D¥j¤µ¤å¤£¦P¡D¦Ó¬Ò¦Û
+¿×¯u¥»¸g¡D¥j¤µ¥ý®v¡D¸q¤@¦Ó¤w¡D²§®a§O»¡¤£¦P¡D¦Ó¬Ò¦Û¿×¥j¤µ¡D¦¹³B¦³
+»~¥ò¥§Âä¦ÓÃû½è¡D¤j¸t¤w³u¸gµL©Ò½è©õ¥ý®vª\¦ÓµL»D¡D¥ý®v¤w³à¸qµL©Ò»D
+±N½Ö¨Ï§é¤§ªÌ¡D¯³¤§·À¾Ç¤]¡D®ÑÂÃ©ó«Î¾À¡D¸qµ´©ó´Â³¥¡D¶e¦Üº~¿³¡D¦¬ºT
+´²º¢¡D©T¤wµL¥þ¾Ç¨o¡D¤å¦³¿i·À¡D¨¥¦³·¡®L¡D¥X¦³¥ý«á¡D©Î¾ÇªÌ¥ý·N¦³©Ò
+­É©w¡DµL©Ò©º¾ÚÁr¨£·l¯q«á¶i¬Û¤Í¡DÀ±¥H´þ½¯¡D¬G¤@·½¤Q¬y¡D¤Ñ¤ô¹H¦æ¡D
+¦Ó³^ªÌ¯É¦p¤]¡D³ë¾ÇªÌ©Ò¶Ç­I©Ñ¤¬¬Ûª§¬O¤]°õ¤£­Ñ¬O¡D¤ñ¦Ó½×¤§¡D¥²¦³¥i
+°ÑªÌ²j¡D¦¹¤@­º©Ò¿×³Æ³Õ¤h¤]©Î¤ê¡D¦Ü¼w­n¹D¬ùº¸¡D¨åÄy¬Æ´I¡D¦p¦Ó³Õ¤§
+¥H¨D¬ù¤]¡D»y¦³¤§¤ê¡D¦³³¾±N¨Ó¡D±iÃ¹«Ý¤§¡D±o³¾ªÌ¤@¥Ø¤]¡D¤µ¤@¥Ø¤§Ã¹
+¡DµL®É±o³¾¨o¡D³¾³ë¹DÃ¹³ë¨åÄy¹DÁö­n¤]¡D«D³ÕµL¥H³q¨o¡D³Õ¨ä¤è¡D¬ù¨ä
+»¡¡D¦¹¤@­º©Ò¿×¦Ü¼w­n¹D¤]³j¥OÅv¤]¡D©Î¤ê¡D¦³¨î¥G¡D¤ê¡DÅvµL¨î¡D¨î¨ä
+¸q¡D¤£¨î¨ä¨Æ¡D´S¥H¦æÅv¡D©ö¨tÃã¤å¸q¨î¤]¡DÅvªÌ¤Ï¸g¡DµL¨Æ¤]¡D°Ý¨ä¶H
+¡D¤ê¡DµL¦k¤§¨a¤j¹L¡D¤¿¨ä¶H¨o¡D¤£±o¤w¦Ó¦æ¤§¡D¸T¨ä¹ð¤]¡Dªì¥­¦Ü¦¹¤Z
+¤C¦~¦Ó¤j³jªÌ¤Q¥i¿×¼Æ¬Æ¬G®®¥H¦¹³W¤§¤ê¡Dµ´¤§¥G¡D¤ê¡DÅv¡D¤ê¡D©y¥±¤§
+µ´¤]¡D¬J¤êÅv©yµÛ«D±`¨å¦¹¤@­º©Ò¿×¸T³j¥O¤]©|¥D¤§¨î«D¥j¤]¡DÍù­°¤G¤k
+¡D³³­ð¤§¨å¡DÂk©f¤¸¦N¡D«Ò¤A¤§°V¡D¤ý®VÂk»ô¡D©v©P¤§Â§¡D¥H³±­¼¶§¹H¤Ñ
+¡D¥H°üÕæ¤Ò¹H¤H¡D¹H¤Ñ¤£²»¡D¹H¤H¤£¸q¡D®®¤§¨û¤÷¯û²n¤_©µ¿Q¤E¦~¹ïµ¦³¯
+«K©y¥Hº~©Ó¯³ªk³]©|¥D¤§»ö¥H©d¨î¤Ò¥H¨õÁ{´L¹H°®©[¤§¹D¥¢¶§­Ò¤§¸q©y§ï
+©|¥D¤§¨î¤µ®®½Æ¥H¨¥¬p¨ä®aªù¯À©Ò°ÓÁ¿ªÌ¥G¦¹¤@­º©Ò¿×¥¿©|¥D¤§¨î¤]¥jªÌ
+¤Ñ¤l½Ñ«J¡D¦³¨Æ¥²§i©ó¼q¡D´Â¦³¤G¥v¡D¥ª¥v°O¨¥¡D¥k¥v°O°Ê¡D°Ê¬K¬î¡D¨¥
+©|®Ñ¡D§gÁ|¥²°O¡D»N§_¦¨±Ñ¡DµL¤£¦s²j¡D¤U¤Î¤h±f¡Dµ¥¦U¦³²§¡DÄÐ¦b¸üÄy
+¡D©Î±ýÅã¦Ó¤£±o¡D©Î±ýÁô¦Ó¦W³¹¡D±o¥¢¤@´Â¦Óºa°d¤d¸ü¡Dµ½¤HÄU²j¡D²]¤H
+Äß²j¡D¬G¥ý¤ý­«¤§¡D¥H¶à½à»@¡D¥H»²ªk±Ð¡D©y©ó¥OªÌ¡D©x¥H¨ä¤è¡D¦U­«¨ä
+ºÉ¡D«h¶°¤§¤_©|®Ñ¡D­Y¥v©x¨Ï´x¨å¨ä¨Æ¡D¤£®Ñ¸Þ±`¡Dµ½´c«h®Ñ¡D¨¥¦æ¨¬¥H
+ªk¦¡«h®Ñ¡D¥ß¥\¨Æ«h®Ñ¡D§L¦¥°Ê«h®Ñ¡D¥|¦i´ÂÄm«h®Ñ¡D¬Ó¦Z¶Q¤H¤Ó¤l«ô¥ß
+«h®Ñ¡D¥úªZ¸m¶Q¤H¤T¤Ò¤H¤½¥D¤j¦Ú«ô§K«h®Ñ¡DºÖ²]º×¶Ã«h®Ñ¡D²»·ç¨a²§«h
+®Ñ¡D¥ý«Ò¬G¨Æ¦³°_©~ª`¡Dº~®É¦³¸T¤¤°_©~¬G©ú¼w°¨¬Ó¦Z¦Û¼¶Åã©v°_©~ª`¤é
+¥Î°ÊÀR¤§¸`¥²®Ñ²j¡D©y½Æ¨ä¦¡¡D¤º¥v´x¤§¡D¥H¬ö¤º¨Æ¡D¦¹¤@­º©Ò¿×½Æ¤º¥~
+ª`°OªÌ¤]
+
+«U¶û²Ä¤T
+
+©Î°Ý½³¸b¡D¤ê¡D¼w´µ¯q¡D§_´µ·l¡D¤ê¡D¦ó¿×¤]¡D¦N¦ÓÀÙ¡D¤¿¦Ó±Ï¤§¿×¯q¡D
+¦N¦Ó«î¡D¤¿¦Ó«å¤§¿×·l¡D©Î°Ý¤ê¡D®É¸s§Ò¡D¤ê¡D¦¹¤Ñ¦a¤§¼Æ¤]¡D«D¦N¤¿©Ò
+¥Í¤]¡DªF¤è¥D¥Í¡D¦ºªÌ¤£ÂA¡D¦è¤è¥D±þ¡D¥ÍªÌ¤£¹è¡D«n¤è¤õ¤]¡D©~¤§¤£êN
+¡D¥_¤è¤ô¤]¡DÁÐ¤§¤£¨H¡Dº~®É«U¦³¤è§Ò¦p¦è¯q¦v¿×¤§¤£²»¥²¦³¦º¤`°Ó®aªù
+¤£©y«n¦V©º®aªù¤£©y¥_¦V¤§Ãþ¬O¤]¬G¥Ò¤l¬N²n¡D®ï·À©P¿³¡D«w¶§¤§¦a¡D¯³
+¤`º~¶©¡D©Î°Ý¤­¤T¤§¦ì©PÀ³¤]¡D¤­¤T¤­¬P¤T¨°¤¸©R­c¤ê®ï¬ô¤§®É¤­¬P»E¤_
+©Ð©ÐªÌ»a¯«¤§ºë©P¾Ú¦Ó¿³ÀsªêÀs·í§@§À¤§·|®Ê²»¤]¡D®ÊÄm¤½°Ý¤_½³°³¤ê§ð
+ç~¦ó¤ë¤]¤êµ£ÁÁ¦³¤§¤ê¤þ¤§¹AÀs§À¥ñ¨°§¡ªA®¶®¶¨úç~¤§ºX¤ê¡D©x©²³]³¯¡D
+´I¶QªÌ­È¤§¡D¥¬¦ç´J²j¡D¤£²Å¨äÀï¤]¡Dº»ÊC­Y©~¡D¦³¸oªÌÄ²¤§¡D­s¨}¤J²j
+¡D¤£¨ü¨ä»@¤]¡D©Î¤ê¡DµM«h¤é¤ë¥i¼oÂj¡D¤ê¡D§_¡D¤ê¡D¤¸¨°¡D¥ý¤ý©Ò¥Î¤]
+¡D¤H©Ó¤Ñ¦a¡D¬G°ÊÀR¶¶²j¡D¶¶¨ä³±¶§¡D¶¶¨ä¤é¨°¡D¶¶¨ä«×¼Æ¡D¤º¦³¶¶¹ê¡D
+¥~¦³¶¶¤å¡D¤å¹ê¶¶¡D²z¤]¡D¥ð©º¤§²Å¡D¦ÛµMÀ³¤]¡D¬Gµs¬u´Âºq¡D¤Õ¾¥¤£¥Ñ
+¡D´c¨ä¦WªÌ¡D¶¶¨ä¤ß¤]¡D­eµL¨ä¹ê¡DéuºÖ©ó§Ò¡D´µ¦¨Ãø¤]¡D©Î¤ê¡D¬è½ÐªÌ
+¸Û¥H±µ¯«¡D¦ÛµMÀ³¤]¡D¬Gºë¥H©³¤§¡DÄë¬¹¥É©­¥H¬L¬è½Ð¡D¦N®Ò¥H³q¤§¡DÂ§
+¶³Â§¶³¡D¥É©­¶³¥G«v¡D½Ð¶³¬è¶³¡D°s¿¯¶³¥G«v¡D«D¨äÂ§«h©Î·^¡D«D¨ä½Ð«h
+¤£À³¡D©Î°Ý¬è½Ð¥i§_¡D¤ê¡D®ðª«À³·P«h¥i¡D©Ê©R¦ÛµM«h§_¡DÀ³·P¦p¤gÀs­P
+«B¤§Ãþ©Î°ÝÁ×¯e¤Ì¡D¦³½Ñ¡D¤ê¡D¤Ò¯e¤Ì¡D¦óªÌ¤]¡D«D¨­«h¯«¡D¨­¤£¥iÁ×¡D
+¯«¤£¥i°k¡D¥iÁ×«D¨­¡D¥i°k«D¯«¤]¡D«ù¨­ÀH¤Ñ¡D¸U¨½¤£¶h¡DÄ´½ÑÀ©¤l±»¥Ø
+¥¨¤Ò¤§±³¡D¦Ó¤ê°k¥i¥G¡D©Î°Ý¤H§Î¦³¬Û¡D¤ê¡D»\¦³¤§²j¡D¤Ò¯«®ð¡D§Î®e¤§
+¬Û¥]¤]¡D¦ÛµM¨o¡D¶L¤§©ó¦æ¡D°Ñ¤§¤_®É¡D¬Û¦¨¤]¡D¥ç°Ñ¬Û±Ñ¤]¡D¨ä¼Æ¨o¡D
+¨äÅÜ¦h¨o¡D¥ç¦³¤W¤¤¤U«~¶³º¸¡D©Î°Ý¯«Ü¹¤§³N¡D¤ê¡D½Ï«v¡D¥½¤§¤]¤w¨o¡D
+¸t¤H¥±¾Ç¡D«D´c¥Í¤]¡D²×©l¹B¤]¡Dµuªø¼Æ¤]¡D¹B¼Æ«D¤H¤O¤§¤]¡D¤ê¡D¥ç¦³
+Ü¹¤H¥G¡D¤ê¡Dàú¹®®Û²õ¡D¥G²§«U¡D´N¦³Ü¹¤H¡D¥ç®íÃþ¨o¡D©Î°Ý¦³¼Æ¦Ê·³¤H
+¥G¡D¤ê¡D¤OºÙ¯QÀò¡D¯QÀò¯³ªZ¤ý¤O¤h±¶¨¥ªÊ¥è¡DªÊ¥èºÃ½Ý¥è¤§»~«i´µ¶N¨|
+¡D©s¶N»ô¤H¯à¥Í©Þ¤û¨¤®L¨|½Ã¤H¸t¶³¥ò¥§¡D¹ØºÙ´^¯ª¡D´^¯ªªÌ®ï¤j¤Ò©möý
+¦WÅ³ª«¦³«T³Ç¡D¤£¥i»z¤]¡D©Î°Ý¤Z¹ØªÌ¥²¦³¹D¡D«D²ß¤§¥\¡D¤ê¡D¤Ò±©¹Ø¡D
+«h±©¯à¥Î¹D¡D±©¯à¥Î¹D¡D«h©Ê¹Ø¨o¡D­e«D¨ä©Ê¤]¡D­×¤§¤£¦Ü¤]¡D¾Ç¥²¦Ü¸t
+¡D¥i¥HºÉ©Ê¡D¹Ø¥²¥Î¹D¡D©Ò¥HºÉ©R¡D©Î¤ê¡D¤H¦³ÅÜ¤Æ¦Ó¥PªÌ¡D«H¥G¡D¤ê¡D
+¥¼¤§«e»D¤]¡DµM«h²§¤]¡D²§¿×©Ç²§«D¥P¤]¨k¤Æ¤kªÌ¦³¨o¡D¦º¤H½Æ¥ÍªÌ¦³¨o
+¡DÄm«Ò¿³¥­¤»¦~¶V¹m¨k¤l¤Æ¤k¤l¥|¦~ªZ³®¤k¤l¦º¤Q¥|¤é´_¬¡¤Ò°Z¤H¤§©Ê«v
+¡D®ð¼Æ¤£¦s²j¡D©Î°Ý¤ê¡D¾i¦³©Ê¥G¡D¤ê¡D¾i©ÊªÃ¤¤©M¡D¦u¤§¥H¥Í¦Ó¤w¡D·R
+¿Ë·R¼w·R¤O·R¯«¤§¿×¶Þ¡D§_«h¤£©y¡D¹L«h¤£¿F¡D¬G§g¤l¸`«Å¨ä®ð¡D¤Å¨Ï¦³
+©Ò¾Ã³¬º¢©³¡D©ü¶Ã¦Ê«×«h¥Í¯e¡D¬G³ß«ã«s¼Ö«ä¼{¥²±o¨ä¤¤¡D©Ò¥H¾i¯«¤]¡D
+´H·y¬Õµê®ø®§¥²±o¨ä¤¤¡D©Ò¥H¾i¯«¤]¡Dµ½ªv®ðªÌ¡D¥Ñ¬ê¤§ªv¤ô¡D­Y¤Ò¾É¤Þ
+»W®ð¡D¾äÂÃ¤ºµø¡D¹L«h¥¢¤¤¡D¥i¥Hªv¯e¡D¬Ò¾i©Ê¤§«D¸t³N¤]¡D¤Ò©}ªÌ¥H¥G
+¥Ó¤]¡D»WªÌ¥H¥Gµê¤]¡D¤ºªÌ¥H¥G¥~¤]¡D®ð©y«Å¦Ó¹K¤§¡DÅé©y½Õ¦ÓÁB¤§¡D¯«
+©y¥­¦Ó§í¤§¡D¥²¦³¥¢©MªÌ¨o¡D¤Òµ½¾i©ÊªÌµL±`³N¡D±o¨ä©M¦Ó¤w¨o¡D¾FÂÀ¤G
+¤o¿×¤§Ãö¡D¶À®x¥~´º¸g¤ê¤W¦³¶À®x¤UÃö¤¸«á¦³«Õªù«e©Rªù©I§lÃf¶¡¤J¤¦¥Ð
+¸Ñ¶³Ãö¤¸¦bÂÀ¤U¤T¤o¤¸¶§¤§©R¦b¨ä«eÄaºë¦pÃè©ú·Ó¤@¨­¤£¥ð¬O¹DÃöªÌ¡D©Ò
+¥HÃöÂÃ©I§l¤§®ð¡D¥H¸[±Â¥|®ð¤]¡D¬Gªø®ðªÌ¥HÃö®§¡D®ðµuªÌ¡D¨ä®§µy¤É¡D
+¨ä¯ßµy«P¡D¨ä¯«µy¶V¡D¦Ü©ó¥HªÓ®§¦Ó®ðµÎ¡D¨ä¯«µy±M¡D¦Ü©ó¥HÃö®§¦Ó®ð­l
+¨o¡D¬G¹DªÌ¡D±`­P®ð¤_Ãö¡D¬O¿×­n³N¡D¤Z¶§®ð¥Í¾i¡D³±®ð®ø±þ¡D©M³ß¤§®{
+¡D¨ä®ð¶§¤]¡D¬G¾i©ÊªÌ¡D±R¨ä¶§¦Ó²Ò¨ä³±¡D¶§·¥«h¤®¡D³±µ²«h¾®¡D¤®«h¦³
+®¬¡D¾®«h¦³¤¿¡D¤Òª«¤£¯à¬K¡D¤Ñ¬K¦Ó¥Í¡D¤H«h¤£µM¡D¦s§^¬K¦Ó¤w¨o¡DÃÄªÌ
+¡DÀø¤]¡D©Ò¥Hªv¯e¤]¡DµL¯e¡D«h¤ÅÃÄ¥i¤]¡D¦×¤£³Ó­¹®ð¡Dªp©óÃÄ¥G¡D´H´µ
+¼ö¡D¼ö«h­Pº¢¡D³±ÃÄ¤§¥Î¤]¡D°ß¾A¨ä©y«h¤£®`¡D­Y¤w®ð¥­¤]¡D«h¥²¦³¶Ë¡D
+°ß°w¤õ¥ç¦p¤§¡D¬G¾i©ÊªÌ¡D¤£¦hªA¤]¡D°ß¦b¥G¸`¤§¦Ó¤w¡D©Î°Ý¤¯ªÌ¹Ø¡D¦ó
+¿×¤]¡D¤ê¡D¤¯ªÌ¤º¤£¶Ë©Ê¡D¥~¤£¶Ëª«¡D¤W¤£¹H¤Ñ¡D¤U¤£¹H¤H¡D³B¥¿©~¤¤¡D
+§Î¯«¥H©M¡D¬G©S©º¤£¦Ü¦Ó¥ð¹Å¶°¤§¡D¹Ø¤§³N¤]¡D¤ê¡D¥T¦ó¡D¤ê¡D©R¤]¡D³Á
+¤£²×®L¡Dªá¤£ÀÙ¬K¡D¦p©M®ð¦ó¡D¨¥³ÁÁö¤£ëÆ®L¦Ó¨qªáÁö¤£¶V¬K¦Óºa¨ä¦p©M
+®ð¤§«O¦X¦óÁö¶³¨äµu¡Dªø¥ç¦b¨ä¤¤¨o¡D©Î°Ý¶À¥Õ¤§¾©¤ê¡D³Å¼Ý½×¤§·í¤]¡D
+êOÔ²¥Ë«h¥i¡DÔ²ÂH¤g¤]Ã{¥Ë»É«h¤£¥i¡D¥H¦ÛµMÅç©ó¤£µM¡D¸Þ«v¡D¼Ä¤ü¦Ï¤§
+¦×¥H³y°¨¤û¡D¤£´X¨o¡D¤£¨äµMÂj¡D¥@ºÙ½n®Ñ¡D¥ò¥§¤§§@¤]¡D¦Ú®®¨û¤÷¬G¥q
+ªÅ²n¿ë¤§¡D»\µo¨ä¤]¡D¦³°_¤_¤¤¿³¤§«e¡D²×±i¤§®{¤§§@¥G¡D°_¤_«s¥­©Î¤ê
+¡DÂø¤ê¥H¤vÂø¥ò¥§¥G¡D¥H¥ò¥§Âø¤v¥G¡D­Y©¼ªÌ¡D¥H¥ò¥§Âø¤v¦Ó¤w¡DµM«h¥i
+¿×¤K¤Q¤@­º¡D«D¥ò¥§¤§§@¨o¡D©Î¤ê¡DêO½Ñ¤ê¡D¥ò¥§¤§§@«h§_¡D¦³¨ú²j«h¥i
+¡D¬T¨äêO¡D¦b¤WªÌ¤£¨üµê¨¥¡D¤£Å¥¯B³N¡D¤£ªöµØ¦W¡D¤£¿³¨Æ¡D¨¥¥²¦³¥Î¡D
+³N¥²¦³¨å¡D¦W¥²¦³¹ê¡D¨Æ¥²¦³¥\¡D
+
+Âø¨¥¤W²Ä¥|
+
+©Î°Ý¤ê¡D§g¤l¬T´°¤Ò¾Ç¡D¤ê¡D¥Í¦Óª¾¤§ªÌ¹è¨o¡D¾Ç¦Óª¾¤§ªÌ¨o¡D±y±y¤§¥Á
+¡Dªnªn¤§¤h¡D©ú©ú¤§ªv¡D¨Z¨Z¤§¶Ã¡D¬Ò¾Ç¼o¿³¤§¥Ñ¡D´°¤§¤£¥ç©y¥G¡D§g¤l
+¦³¤TÅ³¡D¥@¤HÃèÅ³¡D«e±©°V¡D¤H±©½å¡DÃè±©©ú¡D¦¹§g¤l¤§¤TÅ³®L°Ó¤§°I¡D
+¤£Å³©ó¬ê´ö¤]¡D©P¯³¤§¹ú¡D¤£Å³©ó¥Á¤U¤]¡D°¼¥¯«¯¡D¤£Å³©ó©úÃè¤]¡D¬G§g
+¤l±©Å³¤§°È¡D­Y¤Ò°¼´º¤§Ãè¤`Å³¨o¡D¦ýª¾ÃèÅ³¬OµLÅ³©Î°Ý­Pªv¤§­n§g¥G¡D
+¤ê¡D¨â¥ß«v¡D¤ÑµL¿W¹B§gµL¿W²z«D¤Ñ¦a¤£¥Íª«¡D«D§g¦Ú¤£¦¨ªv¡D­º¤§ªÌ¤Ñ
+¦a¤]¡D²Î¤§ªÌ§g¦Ú¤]«v¡D¥ý¤ý¤§¹D­P°V²j¡D¬G¤`´µ¶·¤§¶¡¦Ó¹H¹D¨o¡D©õ¦³
+¤W­P¸t¡D¥Ñ±Ð§Ù¡D¦]»²´]¡D´Ü¶¶¥|¾F¡D¬GÀË¬j¤§¦Ú¡D¤£µê©ó°¼¡DÂ§«×¤§¨å
+¡D¤£Ãm©ó¥Ø¡D¥ý­õ¤§¨¥¡D¤£½ù©ó¨­¡D«D¸q¤§¹D¡D¤£«Å©ó¤ß¡D¬O¨¸»÷¤§®ð¡D
+¥½¥Ñ¤J¤]¡D¯Ê¤@¦r¦³¶¡¯Ê¤@¦r¥²¦³¤J¤§ªÌ¨o¡D¬O¬G»÷§ÓµÞ«h»÷¨Æ§@¡D»÷¨Æ
+§@«h¥¿¶ë¡D¥¿¶ë¡D«h¤½¥¿¥ç¥½¥Ñ¤J¤]¨o¡D¤£¥ô¤£·R¿×¤§¤½¡D±©¤½¬O±q¿×¤§
+©ú¡D»ô®Ù¤½¤¤§÷¤]¡D¥½¯à¦¨¥\·~¡D¥Ñ¦³²§²jªÌ¨o¡D©cÜù¬Õ®c¡D«DµL·R©¯¤]
+¡D¸s¦Ú¬Õ´Â¡D«DµL¿Ëªñ¤]¡DµM¥~«hºÞ¥ò®g¤v¡D½Ã®V¦â°I¡D«D·R¤]¡D¥ô¤§¤]
+¡DµM«áª¾«D½å¤£¥i¥ô¡D«D´¼¤£¥i±q¤]¡D¤Ò¦¹¤§Á|§»¨o«v¡D»I¨w¯Â¥Õ¡D¤G½Ý
+¤£¥Í¡D¯÷¿×¤ß¹ç¡D¬Ùök²M²b¡DéXÄ^¤£¥Í¡D¯÷¿×¬F¥­¡D¤Ò»I¨wªñ¤ß¦Ó³BË®¡D
+°w¤§¤£»·¡D»··í§@¹FÃÄ¤§¤£¤¤¡D§ð¤§¤£¥i¡D¤G½ÝÂÃ²j¡D¬O¿×¿w±w¡D¬Gªv¨­
+ªv°êªÌ¡D°ß¬O¤§¬È¡D©Î¤ê¡D·R¥Á¦p¤l¡D¤¯¤§¦Ü¥G¡D¤ê¡D¥¼¤]¡D¤ê¡D·R¥Á¦p
+¨­¡D¤¯¤§¦Ü¥G¡D¤ê¡D¥¼¤]¡D´öÃ«®áªL¡DÐ¼¾E©óÃ¶¡D´º¯¨©ó§ò¡D¥i¿×·R¥Á¨o
+¡D¤ê¡D¦ó­«¥Á¦Ó»´¨­¤]¡D¤ê¡D¤H¥D©Ó¤Ñ©R¥H¾i¥ÁªÌ¤]¡D¥Á¦s«hªÀ½^¦s¡D¥Á
+¤`«hªÀ½^¤`¡D¬G­«¥ÁªÌ¡D©Ò¥H­«ªÀ½^¦Ó©Ó¤Ñ©R¤]¡D©Î¤ê¡D©s¶aºÙ¤H¬Ò¥i¥H
+³óµÏ¡D¨ä«H¨o¡D¤ê¡D¤H«D¤U·M¡D«h¬Ò¥i¥H³óµÏ¨o¡D¼g³óµÏ¤§»ª¡D¦P³óµÏ¤§
+©m«h§_¡DªA³ó¤§¨î¡D¦æ³ó¤§¹D«h¥i¨o¡D¦æ¤§©ó«e¡D«h¥j¤§³óµÏ¤]¡D¦æ¤§©ó
+«á¡D«h¤µ¤§³óµÏ¤]¡D©Î¤ê¡D¤H¬Ò¥i¥H®å¬ô¥G¡D¤ê¡D¦æ®å¬ô¤§¨Æ¡D¬O®å¬ô¤]
+¡D³óµÏ®å¬ô¤§¨Æ¡D±`¨Ã¦s©ó¥@¡D°ß¤H©Ò¥Î¦Ó¤w¡D·¨¦¶­úª[¸ô¡D©Ò³q¹GªÌµM
+¤]¡D¤Òª[¸ô¯Q¨¬´d«v¡D¤¤¤Ï²j¡D­Y¤Ò¿¤«×¤§¤Ì¯À¡DÁ|¨¬¦Ó¤w¨o¡D¦è°ì¶Ç¯Q
+¯µ°ê¦è¦³¿¤«×¿¤«×ªÌ¥Û¤s¤]·Ë½\¤£³q¥HÃ·¯Á¬Û¤Þ¦Ó«×¥hëÆ®å¬ô·l¯q¤§²Å¡D
+·L¦ÓÅã¤]¡D»¯Àò¤G«°¡DÁ{õX¦Ó¼~¡D³³¦¶¬J´I¡D«Ç©c´d¸¹¡D¦¹ª¾¯q·l¤§¯qªÌ
+¤]¡D©}¦ù¤§¼Æ¡DÁô¦Ó¬L¤]¡D¦³¤´¤§§x¡D½Æ®L¤§µÞ¤]¡D¹©¹n¤§²§¡D¿³®ï¤§²Å
+¤]¡Dªò®c¤§Ãø¡D¶©©P¤§À³¤]¡D·|½]¤§´Ï¡DÅQ¶V¤§°ò¤]¡D¤l¤§¤§¶Ã¡D±j¿P¤§
+©º¤]¡D¦¹ª¾¦ù©}¤§¦ùªÌ¤]¡D¤H¥D¤§±w¡D±`¥ß©ó¤GÃø¤§¶¡¡D¦b¤W¦Ó°ê®a¤£ªv
+¡DÃø¤]¡Dªv°ê®a«h¥²¶Ô¨­¡D­W«ä¡DÁB±¡¡D¥H±q¹D¡DÃø¤]¡D¦³Ãø¤§Ãø¡Dîî¥D
+¨ú¤§¡DµLÃø¤§Ãø¡D©ú¥D©~¤§¡D¤j¦Ú¤§±w¡D±`¥ß©ó¤G¸o¤§¶¡¡D¦bÂ¾¦Ó¤£ºÉ©¾
+ª½¤§¹D¡D¸o¤]¡DºÉ©¾ª½¤§¹D¡D«h¥²ÁB¤W©Ø¤U¡D¸o¤]¡D¦³¸o¤§¸o¡D¿×¤£ºÉ©¾
+ª½¤§¹D¨¸¦Ú¥Ñ¤§¡DµL¸o¤§¸o¡D¿×ºÉ¹D¦ÓÁB¤W©Ø¤U©¾¦Ú¸m¤§¡D¤H¦Ú¤§¸q¡D¤£
+¤ê§^§g¯à¨o¡D¤£§Ú¶·¤]¡D¨¥µL¸É¤]¡D¦Ó¤£ºÉ©¾¡D¤£¤ê§^§g¤£¯à¨o¡D¤£§ÚÃÑ
+¤]¡D¨¥µL¯q¤]¡D¦Ó¤£ºÉ©¾¡D¥²ºÜ¨ä¸Û¡D©ú¨ä¹D¡DºÉ¨ä¸q¡D´µ¤w¦Ó¤w¨o¡D¤£
+¤w¡D«h©^¨­¥H°h¡D¦Ú¹D¤]¡D¬G§g¦Ú¦³²§µL¨Ä¡D¦³«èµL¾Ñ¡D¦³©}µL°d¡D¤H¦Ú
+¦³¤T¸o¡D¤@¤ê¾É«D¡D¤G¤êªü¥¢¡D¤T¤ê«ÍÃd¡D¥H«D¤Þ¤W¿×¤§¾É¡D±q¤W¤§«D¿×
+¤§ªü¡D¨£«D¤£¨¥¿×¤§«Í¡D¾É¦Ú¸Ý¡Dªü¦Ú¦D¡D«Í¦Ú²Ò¡D²Ò»PÂJ¦P¶i©¾¦³¤T³N
+¡D¤@¤ê¨¾¡D¤G¤ê±Ï¡D¤T¤ê§Ù¡D¥ý¨ä¥¼µM¿×¤§¨¾¡Dµo¦Ó¤î¤§¿×¤§±Ï¡D¦æ¦Ó³d
+¤§¿×¤§§Ù¡D¨¾¤W¡D±Ï¦¸¤§¡D§Ù¤U¡D¤U¤£¹X¤f¡D¤W¤£¶ë¦Õ¡D«h¥i¦³»D¨o¡D¦³
+¹X¤§¹X¡DµS¥i¸Ñ¤]¡DµL¹X¤§¹X¡DÃø¨o«v¡D¦³¶ë¤§¶ë¡DµS¥i°£¤]¡DµL¶ë¤§¶ë
+¡D¨ä¬Æ¨o¤Ò¡DµL¹X¤§¹XµL¶ë¤§¶ëÄm«Ò¤§®É¦p¦¹©Î¤ê¡D¦b¤W¦³©}¥G¡D¤ê¡D¦b
+¤WªÌ¥H¸q¥Ó¡D¥H¸q©}¡D°ª¯ªÁö¯à¥Ó«Â¤_¯³¶µ¦Ó©}¤_°Ó¤s¥|¤½¡D¥úªZ¯à¦ù¤_
+²õ¦Ó©}©ó±j¶µ¥O¡D©ú«Ò¯à¥Ó¥O¤_¤Ñ¤U¦Ó©}¤_ÁéÂ÷©|®Ñ¡D­Y¯³¤G¥@¤§¥Ó±ý¦Ó
+«D¯º­ð¸·¡D­Y©w³³³Å¤Ó¦Z¤§¥Ó·N¦Ó«è¤_¾G¡D¬O¿×¤£©}¡D¤£µM¡D«h»¯¤ó¤£¤`
+¡D¦Ó¯³µL·^¤×¡D¬G¤H¥D¥H¸q¥Ó¡D¥H¸q©}¤]¡D³ß¦p¬K¶§¡D«ã¦p¬îÁ÷¡D«Â¦p¹p
+¾^¤§¾_¡D´f­Y«BÅS¤§­°¡D¨KµM±E¯à¿m¤]¡D©Î¤êÃø¦æ¡D¤ê¡D­Y°ª¯ªÅ¥¦§¨ò¤£
+Ãh©~¡D¾E¸U­¼¤£«S²×¤é¡D§µ¤å«Ò¤£·R¤d¨½°¨¡D·V¤Ò¤H¦ç¤£¦²¦a¡D¥úªZ¤â¤£
+«ù¯]¥É¡D¥i¿×Ãø¨o¡D§í±¡µ´±ý¡D¤£¦p¬O¡D¯à¦¨¥\·~ªÌÂA¨o¡D¤H¦Ú­Yª÷¤éí­
+¡D¥H¤l¨pðã¦Ó±þ¤§¡D¤þ¦N¤§¤£¥ï¡DÄ¬ªZ¤§°õ¸`¡D¥i¿×Ãø¨o¡D¨¥¤T¦ÚªÌ¥H¿Ø
+¾Þ¤]©Î°Ý¼F§Ó¡D¤ê¡D­Y®ï°ª©v¯àßÂ¨ä¼w¡D¼Ö½P¯t¥Hêo¯e¡D½ÃªZ½e§Ù©ó´Â¡D
+¤Ä½îÄaÁx©ó§¤¡D¼F¨o«v¡D¨¥¦¹±ýÄm«Ò¼F§Ó¥H¦A®¶º~·~¤]Ãd©d·R©c¡D©¯¨o¡D
+¨ä¨a¤]¡D²`¨o¡D¨a»P©¯¡D¦P¥G¡D¤ê¡D±o«h¼y¡D§_«h¨a¡D±­¤ó¤£©¯¤£¤J¨¨¡D
+»¯¬L»ö¤£©¯¤£¥¢©R¡D®ßÔÕ¤£©¯¤£¼o¡D¤A¤£©¯¤£¼~¼Ü¡D«D¨a¦Ó¦ó¡D­Y·V¤Ò¤H
+¤§ª¾¡D¯ZÔÐ§±¤§½å¡D©ú¼w¬Ó¦Z¤§¼w¡D©ú¼w°¨¬Ó¦Z¥ñªi±N­x´©¤§¤Ö¤kªò¨o«v
+¡Dªò°ª¤]¥@¼~¼ÖªÌ¡D§g¤l¤§§Ó¤]¡D¤£¥@¼~¼ÖªÌ¡D¤p¤H¤§§Ó¤]¡D¤Ó¥­¤§¥@¡D
+¨Æ¶~¦Ó¥Á¼Ö¹M²j¡D¨Ï÷ìªÌ´¥Åý¦Ê«ô¡D«DÂ§¤]¡D¼~ªÌ©¶ºq¹ª·æ¡D«D¼Ö¤]¡DÂ§
+ªÌ¡D·q¦Ó¤w¨o¡D¼ÖªÌ¡D©M¦Ó¤w¨o¡D¤Ç¤Ò¤Ç°ü¡D³B¬Ê¯a¤§¤¤¡D¥²Â§¼Ö¦s²jº¸
+¡D¹H¤W¶¶¹D¡D¿×¤§©¾¦Ú¡D¹H¹D¶¶¤W¡D¿×¤§½Û¦Ú¡D©¾©Ò¥H¤W¤]¡D½Û©Ò¥H¦Û¤]
+¡D©¾¦Ú¦w¤_¤ß¡D½Û¦Ú¦w©ó¨­¡D¬G¦b¤WªÌ¡D¥²¹î¤Ò¹H¶¶¡D¼f¥G©Ò¡D·V¥G©Ò¦w
+¡D¼s¤t¤ý¥±¹î¬G±þ¨ä¦Ú¡D·¡®¥¤ý¹î¤§¦Ó¿ð¡D¬G¦³¿ò¨¥¡D»ô«Å¤ý¨ä¹î¤§¨o¡D
+¬G½àÅ³ªÌ¡D©Î°Ý¤H§g¤H¦Ú¤§§Ù¡D¤ê¡D²ö­ê§Ù¤]¡D½Ð°Ý¨ä­n¡D¤ê¡D§g§Ù±M±ý
+¡D¦Ú§Ù±M§Q¡D±w¤§¬Æ¤]¡D¯Ê¤­¦r«°±MÄ¶¦ÓÄm¬Ã¡D«DÄ_¤]¡D¸¡¤ß¤§¤H¡D«m°Ë
+¦ÓÄmµ½¡DÄ_¤§¦Ü¨o¡D¬G©ú¤ý·V¤º¦u¡D°£¥~±F¦Ó­«¤ºÄ_¡D¶³±q¤_Às¡D­·±q©ó
+ªê¡D»ñ»ö©ó»à¡DÅï¶°¤_¤Õ¡DÀ³¤]¡D¥X©ó¦¹¡DÀ³©ó©¼¡Dµ½«h²»¡D²»«hºÖ¡D§_
+«hÒÖ¡DÒÖ«h©S¡D¬G§g¤lÀ³¤§¡D¨¥µ½§_·PÀ³¦U±q¨äÃþ§g¤l­¹©MÃ¼¥H¥­¨ä®ð¡D
+Å¥©MÁn¥H¥­¨ä§Ó¡D¯Ç©M¨¥¥H¥­¨ä¬F¡D¼i©M¦æ¥H¥­¨ä¼w¡D¤Ò»ÄÄÐ¥Ì­W¤£¦P¡D
+¹Å¨ý¥HÀÙ¿×¤§©MÃ¼¡D®c°Ó¨¤©º¤£¦P¡D¹Å­µ¥H³¹¡D¿×¤§©MÁn¡D»N§_·l¯q¤£¦P
+¡D¤¤¥¿¥H°V¡D¿×¤§©M¨¥¡DÁÍªÙ°ÊÀR¤£¦P¡D¶®«×¥H¥­¡D¿×¤§©M¦æ¡D¤H¤§¨¥¤ê
+¡D°ß¨ä¨¥¦Ó²ö¤©¹H¤]¡D«h´X¤_³à°ê²j¡D¤Õ¤l¤ê¡D§g¤l©M¦Ó¤£¦P¡D®Ë¤l¥ç¶³
+¡D¥H¤ôÀÙ¤ô¡D½Ö¯à­¹¤§¡Dµ^·æ¤@Án¡D½Ö¯àÅ¥¤§¡D¸Ö¶³¡D¥ç¦³©MÃ¼¡D¬J§Ù¥B
+¥­¡D«µ°²µL¨¥¡D®ÉÃû¦³ª§¡D¦¹¤§¿×¤]¡D
+
+Âø¨¥¤U²Ä¤­
+
+¦ç»n¡DªAªÌ¤£¬N¤_¹Ð¶î¡D·R¤]¡D¦ç»n·R²j¡D¦Ó¤£·R¨ä®e¤î¡D¥~¨o¡D®e¤î·R
+²j¡D¦Ó¤£·R¨ä¨¥¦æ¡D¥½¨o¡D¨¥¦æ·R²j¡D¦Ó¤£·R¨ä©ú¡D²L¨o¡D¬G§g¤l¥»¯«¶Q
+¡D¯«©M¼w¥­¦Ó¹D³q¡D¬O«O¯u¡D¤H¤§©Ò¥H¥ß¼wªÌ¤T¡D¤@¤ê­s¡D¤G¤ê¹F¡D¤T¤ê
+§Ó¡D­s¥H½è¡D¹F¥H¦æ¤§¡D§Ó¥H¦¨¤§¡D§g¤l«v¡D¥²¤£±o¤w¤]¡D¦u©ó¤@¯÷¡D­s
+¨ä¥D¤]¡D¤H¤§©Ò¥H¥ßÀËªÌ¥|¡D¸Û¨ä¤ß¡D¥¿¨ä§Ó¡D¹ê¨ä¨Æ¡D©w¨ä¤À¡D¤ß¸Û«h
+¯«©úÀ³¤§¡Dªp¤_¸U¥Á¥G¡D§Ó¥¿«h¤Ñ¦a¶¶¤§¡Dªp©ó¸Uª«¥G¡D¨Æ¹ê«h¥\¥ß¡D¤À
+©w«h¤£²]¡D¤ê¡D¤~¤§¹ê¤]¡D¦æ¥i¡D¤~¤£¥i¤]¡D¤ê¡D¥j¤§©Ò¥H¿×¤~¤]¥»¡D¤µ
+¤§©Ò¿×¤~¤]¥½¤]¡DµM«h¥H¦æ¤§¶Q¤]¡DµL¥¢¨ä¤~¦Ó¤~¦³¥¢¡D¥ý¥Á¦³¨¥¡D¾A·¡
+¦Ó¥_ÁÕªÌ¡D¤ê¡D§^°¨¨}¥Î¦h¿mµ½¡D¦¹¤TªÌ¯q¨×¡D¨ä¥h·¡¥ç»·¨o¡D¿í¸ô¦ÓÁþ
+¡DÀ³¤è¦Ó°Ê¡D§g¤l¦³¦æ¡D¦æ¥²¦Ü¨o¡D©Î°Ý¸t¤H©Ò¥H¶QªÌ¡D¤~¥G¡D¤ê¡D¦X¦Ó
+¥Î¤§¡D¥H¤~¶Q¡D¤À¦Ó¦æ¤§¡D¥H¦æ¶Q¡DµÏ¬ê¤§¤~¦Ó¤£¨¸¡D¬Æ©ó¯Ê¤@¦r¨o¡DµÏ
+¬ê¤§¤¯¡DÁö¤`¨ä¤~¡D¤£¥¢¨}¤H«v¡D©Î°Ý¶i¿Ï¨ü¿Ï±EÃø¡D¤ê¡D«á¤§¶i¿ÏÃø¤]
+¡D¥H¨ü¤§Ãø¬G¤]¡D«á¿×«á¥@¨¥¦Ú¬È¥Ç¥Ñ§g©Ú¿Ï¦ÓµM­Y¨ü¿Ï¤£Ãø¡D«h¶i¿Ï´µ
+©ö¨o¡D¥D©ú¦Úª½©Î°Ýª¾¤H¦Ûª¾±EÃø¡D¤ê¡D¦Ûª¾ªÌ¡D¨D½Ñ¤º¦ÓªñªÌ¤]¡Dª¾¤H
+ªÌ¡D¨D½Ñ¥~¦Ó»·ªÌ¤]¡Dª¾¤HÃø«v¡D­Y·¥¨ä¼Æ¤]¡D©ú¡D¦³¤º¥HÃÑ¡D¦³¥~¥H·t
+¡D©Î¦³¤º¥HÁô¦³¥~¥HÅã¡DµM«hª¾¤H¦Ûª¾¡D¤H«h¥i¥H¦Ûª¾¡D¥¼¥i¥Hª¾¤H¤]¡D
+«æ«v¡D¤GªÌ¸û¤§ª¾¤H©TÃø¦Ó¦Ûª¾«æ¤]¥Î¤vªÌ¤£²§«h²§¨o¡D§g¤l©Ò´c¥G²§ªÌ
+¤T¡D¦n¥Í¨Æ¤]¡D¦n¥Í©_¤]¡D¦nÅÜ±`¤]¡D¦n¥Í¨Æ«h¦hºÝ¦Ó°Ê¡D¦n¥Í©_«hÂ÷¹D
+¦Ó´b«U¡D¦nÅÜ±`«h»´ªk¦Ó¶Ã«×¡D¬G¦W¤£¶Q­e¶Ç¡D¦æ¤£¶Q­eÃø¡DÅv­Z¨o¡D¨ä
+´X¤£­Y¸g¡DÅG¬ü¨o¡D¨ä²z¤£­Y²Ò¡D¤åÅã¨o¡D¨ä¤¤¤£­Y¾ë¡D³Õ²±¨o¡D¨ä¥¿¤£
+­Y¬ù¡D²ö¤£¹D¡Dª¾¹D¤§Åé¡D¤j¤§¦Ü¤]¡D²ö¤£§®¡Dª¾¯«¤§´X¡D§®¤§¦Ü¤]¡D²ö
+¤£¥¿¡D©M¯Ê¤@¦r¤§¯Ê¤@¦r¥¿¤§¦Ü¤]¡D¬G§g¤l¥²¦s¥G¤T¦Ü¡D¥±¦Ü¡D´µ¦³¦uµL
+äO²j¡D©Î°Ý¦u¡D¤ê¡D¸t¨å¦Ó¤w¨o¡D¸t¨å¿×¤»¸g­Y¤Ò¦Ê®aªÌ¡D¬O¿×µL¦u¡D²ö
+¤£¨¥¡D­n¨ä¦Ü¨o¡D²ö¤£¼w¡D¤¸¨ä¶ø¨o¡D²ö¤£¹D¡D¸t¤H¨ä§»¨o¡D¸t¤H¤§¹D¡D
+¨ä¤¤¹D¥G¡D¬O¤E¹F¡D©Î¤ê¡DÃã¹F¦Ó¤w¨o¡D¸t¤H¥H¤å¨äìO¤]¦³¤­¡D¤ê¤¸¡D¤ê
+§®¡D¤ê¥]¡D¤ê­n¡D¤ê¤å¡D«Õ²`¿×¤§¤¸¡D²z·L¿×¤§§®¡D¼Æ³Õ¿×¤§¥]¡DÃã¬ù¿×
+¤§­n¡D³¹¦¨¿×¤§¤å¡D¸t¤H¤§¤å¡D¦¨¦¹¤­ªÌ¡D¬G¤ê¤£±o¤w¡D§g¤l¼Ö¤Ñª¾©R¬G
+¤£¼~¡D¼fª«©ú¿ë¬G¤£´b¡D©w¤ß­P¤½¬G¤£Äß¡D­Y¤D©Ò¼~Äß«h¦³¤§¡D¼~¤v¤£¯à
+¦¨¤Ñ©Ê¤]¡DÄß¤v´b¤§¡D¼~¤£¯à§K¡D¤Ñ©RµL´b²j¡D©Î°Ý©Ê©R¡D¤ê¡D¥Í¤§¿×©Ê
+¤]¡D§Î¯«¬O¤]¡D©Ò¥H¥ß¥Í²×¥ÍªÌ¤§¿×©R¤]¡D¦N¤¿¬O¤]¡D¤Ò¥Í§Ú¤§¨î¡D©Ê©R
+¦s²jº¸¡D§g¤l´`¨ä©Ê¥H»²¨ä©R¡D¥ð´µ©Ó¡D§_´µ¦u¡DµL°È²j¡DµL«è²j¡D¦nÃd
+ªÌ¡D­¼¤Ñ©R¥HÅº¡D¦n´cªÌ¡D¹H¤Ñ©R¥HÀÝ¡D¬GÅº«h©^¤§¤£¦¨¡DÀÝ«h¦u¤§¤£²×
+¡D¦n¥H¨ú«å¡D´c¥H¨ú¬Æ¡D°È¥H¨úºÖ¡D´c¥H¦¨º×¡D´µ´b¨o¡D©Î°Ý¤Ñ©R¤H¨Æ¡D
+¤ê¡D¦³¤T«~²j¡D¤W¤U¤£²¾¡D¨ä¤¤«h¤H¨Æ¦s²jº¸¡D©R¬Ûªñ¤]¡D¨Æ¬Û»·¤]¡D«h
+¦N¤¿®í¤]¡D¬G¤ê½a²zºÉ©Ê¥H¦Ü©ó©R¡D©s¤lºÙ©Êµ½¡D¯û­ëºÙ©Ê´c¡D¤½®]¤l¤ê
+¡D©ÊµLµ½´c¡D´­¶¯¤ê¡D¤H¤§©Êµ½´c´ý¡D¼B¦V¤ê¡D©Ê±¡¬ÛÀ³¡D©Ê¤£¿Wµ½¡D±¡
+¤£¿W´c¡D¤ê¡D°Ý¨ä²z¡D¤ê¡D©Êµ½«hµL¥|¤¿¡D©Ê´c«hµL¤T¤¯¤H¡DµLµ½´c¡D¤å
+¤ý¤§±Ð¤@¤]¡D«hµL©P¤½ºÞ½²¡D©Êµ½±¡´c¡D¬O®å¬ôµL©Ê¦Ó³óµÏµL±¡¤]¡D©Êµ½
+´c¬Ò´ý¡D¬O¤W´¼Ãh´f¦Ó¤U·M®µµ½¤]¡D²z¤]¡D¥¼¨s¤]¡D±©¦V¨¥µM¡DÁú¤l¤T«~
+¤§»¡¦³Ãþ©ó¦¹©Î¤ê¡D¤¯¸q©Ê¤]¡D¦n´c±¡¤]¡D¤¯¸q±`µ½¦Ó¦n´c©Î¦³´c¡D¬G¦³
+±¡´c¤]¡D¤ê¡D¤£µM¡D¦n´cªÌ¡D©Ê¤§¨ú±Ë¤]¡D¹ê¨£©ó¥~¡D¬G¿×¤§±¡º¸¡D¥²¥»
+¥G©Ê¨o¡D¤¯¸qªÌ¡Dµ½¤§¸ÛªÌ¤]¡D¦ó¶û¨ä±`µ½¡D¦n´cªÌ¡Dµ½´c¥¼¦³©Ò¤À¤]¡D
+¦ó¡½¨ä¦³´c¡D¤Z¨¥¯«ªÌ¡D²öªñ©ó®ð¡D¦³®ð´µ¦³§Î¡D¦³¯«´µ¦³¦n´c³ß«ã¤§±¡
+¨o¡D¬G¤H¤H·í§@¯«¦³±¡¡D¥Ñ®ð¤§¦³§Î¤]¡Dµ½¦³¥Õ¶Â¡D¯«¦³µ½´c¡D§Î»P¥Õ¶Â
+°º¡D±¡»Pµ½´c°º¡D§Y¼B¦V©Ê±¡¬ÛÀ³¤§»¡¬G®ð¶Â«D§Î¤§©S¡D±¡´c«D±¡¤§¸o¤]
+¡D©Î¤ê¡D¤H¤§©ó§Q¡D¨£¦Ó¦n¤§¡D¯à¥H¤¯¸q¸`ªÌ¬O©Ê³Î¨ä±¡¤]¡D©Ê¤Ö±¡¦h¡D
+©Ê¤£¯à³Î¨ä±¡¡D«h±¡¿W¦æ´c¨o¡D¤ê¡D¤£µM¡D¬Oµ½´c¦³¦h¤Ö¤]¡D«D±¡¤]¡D¦³
+¤H¦p¦¹¡D¶Ý¶Ý¦×¡D¦×³Ó«h­¹²j¡D°s³Ó«h¶¼²j¡D¦¹¤GªÌ¬Û»Pª§¡D³ÓªÌ¦æ¨o¡D
+¦æ¿×¶¼­¹«D±¡±ý±o°s¡D©Ê±ý±o¦×¤]¡D¦³¤H©ó¦¹¡D¦n§Q¦n¸q¡D¸q³Ó«h¸q¨ú²j
+¡D§Q³Ó«h§Q¨ú²j¡D¦¹¤GªÌ¬Û»Pª§¡D³ÓªÌ¦æ¨o¡D¦æ¿×¨ú¸q¨ú§Q«D±¡±ý±o§Q¡D
+©Ê±ý±o¸q¤]¡D¨ä¥i­ÝªÌ¡D«h­Ý¨ú¤§¡D¨ä¤£¥i­ÝªÌ¡D«h¥u¨ú­«²j¡D­Y­e¥u¦n
+¦Ó¤w¡DÁö¥i­Ý¨ú·í¦³Âö¤å¨o¡D­Y¤G¦n§¡¥­¡DµL¤À»´­«¡D«h¤@­Á¤@¥õ¡D¥E¶i
+¥E°h¡D¬Û«ù¤£©w©Î¤ê¡D½Ð§é©ó¸g¡D¤ê¡D©öºÙ·F¹DÅÜ¤Æ¡D¦U¥¿©Ê©R¡D¬O¨¥¸U
+ª«¦U¦³©Ê¤]¡DÆ[¨ä©Ò·P¡D¦Ó¤Ñ¦a¸Uª«¤§±¡¥i¨£¨o¡D¬O¨¥±¡ªÌ¡DÀ³·P¦Ó°ÊªÌ
+¤]¡D©øÂÎ¯ó¤ì¡D¬Ò¦³©Ê²j¡D¤£ºÉµ½¤]¡D¤Ñ¦a¸t¤H¡D¬ÒºÙ±¡²j¡D¤£¥D´c¤]¡D
+¤S¤ê¡D¤øÎ½¥H±¡¨¥¥ç¦p¤§¡D¤Z±¡·N¤ß§ÓªÌ¡D¬Ò©Ê°Ê¤§§O¦W¤]¡D±¡¨£¥GÃã¡D
+¬OºÙ±¡¤]¡D¨¥¤£ºÉ·N¡D¬OºÙ·N¤]¡D¤¤¤ß¦n¤§¡D¬OºÙ¤ß¤]¡D¥H¨î¨ä§Ó¡D¬OºÙ
+§Ó¤]¡D±©©Ò©y¡D¦UºÙ¨ä¦W¦Ó¤w¡D±¡¦ó¥D´c¤§¦³¡D¬G¤ê¡D¥²¤]¥¿¦W¡D©Î¤ê¡D
+µ½´c¬Ò©Ê¤]¡D«hªk±Ð¦ó¬I¡D¤ê¡D©ÊÁöµ½¡D«Ý±Ð¦Ó¦¨¡D©ÊÁö´c¡D«Ýªk¦Ó®ø¡D
+°ß¤W´¼¤U·M¤£²¾¡D¨ä¦¸µ½´c¥æª§¡D©ó¬O±Ð§ß¨äµ½¡Dªk§í¨ä´c¡D±o¬I¤§¤E«~
+¡D±q±ÐªÌ¥b¡D¬È¦DªÌ¥|¤À¤§¤T¡D¨ä¤£²¾¤j¼Æ¡D¤E¤À¤§¤@¤]¡D¤@¤À¤§¤¤¡D¤S
+¦³·L²¾ªÌ¨o¡DµM«hªk±Ð¤§©ó¤Æ¥Á¤]¡D´XºÉ¤§¨o¡D¤Îªk±Ð¤§¥¢¤]¡D¨ä¶Ã¥ç¦p
+¤§¡D©Î¤ê¡Dªk±Ð±o«hªv¡Dªk±Ð¥¢«h¶Ã¡D­YµL±oµL¥¢¡DÁa¥Á¤§±¡¡D«hªv¶Ã¨ä
+¤¤¥G¡D¤ê¡D¤Z¶§©Ê¤É¡D³±©Ê­°¡D¤ÉÃø¦Ó­°©ö¡Dµ½¡D¶§¤]¡D´c¡D³±¤]¡D¬Gµ½
+Ãø¦Ó´c©ö¡DÁa¥Á¤§±¡¡D¨Ï¦Û¥Ñ¤§¡D«h­°©ó¤UªÌ¦h¨o¡D¤ê¡D¤¤²j¦b¡D¤ê¡Dªk
+±Ð¤£¯Â¡D¦³±o¦³¥¢¡D«hªv¶Ã¨ä¤¤¨o¡D¯Â¼wµL¼|¡D¨ä¤Wµ½¤]¡D¥ñ¦Ó¤£°Ê¡D¨ä
+¦¸¤]¡D°Ê¦Ó¤£¦æ¡D¦æ¦Ó¤£»·¡D»·¦Ó¯à½Æ¡D¤S¨ä¦¸¤]¡D¨ä¤UªÌ¡D»·¦Ó¤£ªñ¤]
+¡D¤Z¦¹¡D¬Ò¤H©Ê¤]¡D¨î¤§ªÌ«h¤ß¤]¡D°Ê¦Ó§í¤§¡D¦æ¦Ó¤î¤§¡D»P¤W¦P©Ê¤]¡D
+¦æ¦Ó¥±¤î¡D»·¦Ó¥±ªñ¡D»P¤U¦P²×¤]¡D§g¤l¹Å¤¯¦Ó¤£³d´f¡D´LÂ§¦Ó¤£³d·N¡D
+¶Q¼w¦Ó¤£³d«è¡D¨ä³d¤]¥ý¤v¡D¦Ó¦æ¤]¥ý¤H¡D²]´f¡D¦±·N¡D¨p«è¡D¦¹¤TªÌ¡D
+¹êªP­s¹D¡D¶Ã¤j¼w¡DµM¦¨±Ñ±o¥¢¡D²ö­ê¥Ñ¤§¡D±Ï¯f¤£µ¹¡D¨ä³º®O·v¤_¹D¼w
+«v¡D¦¹¤§¿×¥½«U¡D¬G§g¤l¦³±`¥æ¡D¤ê¸q¤]¡D¦³±`»}¡D¤ê«H¤]¡D¥æ¦Ó«á¿Ë¡D
+»}¦Ó«á¬G¯U¨o¡D¤Ó¤W¤£²§¥j¤µ¡D¨ä¦¸¤£²§®ü¤º¡D¦P¤Ñ¤U¤§§ÓªÌ¡D¨ä²±¼w¥G
+¡D¤j¤H¤§§Ó¡D¤£¥i¨£¤]¡D¯EµM¦Ó¦P©ó¹D¡D¤H¤§§Ó¡D¤£¥i±»¤]¡D¹îµM¦Ó¬y©ó
+«U¡D¦P©ó¹D¡D¬G¤£»P«U¯B¡½¡D©Î¤ê¡D­×¦æªÌ¡D¤£¤H®¢½Ñ¯«©ú¡D¨ä¦Ü¤]¥G¡D
+¤ê¡D¥¼¤]¡D¦³®¢ªÌ¥»¤]¡D®¢½Ñ¯«©ú¡D¨ä¦¸¤]¡D®¢½Ñ¤H¡D¥~¨o¡D¤Ò°ß¥~¡D«h
+¼|¿n©ó¤º¨o¡D¬G§g¤l¼f¥G¦Û®¢¡D©Î¤ê¡D®¢ªÌ¡D¨ä§ÓªÌ¥G¡D¤ê¡D¥¼¤]¡D¤Ò§Ó
+ªÌ¡D¦ÛµM¥Ñ¤H¡D¦ó®¢¤§¦³¡D­u½\¥²¼Y¡D¥¢¤ô¥²·Ä¡D¤H¨£¤§¤]¡D­u¡½¥²³´¡D
+¥¢¹D¥²¨H¡D¤H¤£¨£¤§¤]¡D¤£¹î¤§¡D¬G§g¤l·V¥G©Ò¤£¹î¡D¤£»D¤j½×«h§Ó¤£§»
+¡D¤£Å¥¦Ü¨¥«h¤ß¤£©T¡D«ä­ð¸·©ó¤W¥@¡DÂ¤¥ò¥§©ó¤¤¥j¡D¦Óª¾¤Ò¤p¹DªÌ¤§¨¬
+²Û¤]¡D·Q§B¦i¤_­º¶§¡D¬Ù¥|µq¤_°Ó¤s¡D¦Óª¾¤ÒÂ©§ÓªÌ¤§¨¬®¢¤]¡D¦s±iÄÊ©ó
+¦è·¥¡D©ÀÄ¬ªZ©ó®Ò««¡D¦Óª¾Ãh¾[«ÇªÌ¤§¨¬»À¤]¡D±À´µÃþ¤]¡DµL©Ò¤£¦Ü¨o¡D
+¼w¤ñ©ó¤W¡D±ý¤ñ©ó¤U¡D¼w¤ñ©ó¤W¡D¬Gª¾®¢¡D±ý¤ñ©ó¤U¡D¬Gª¾¨¬¡D®¢¦Óª¾¤§
+¡D«h¸t½å¨ä¥i´X¡Dª¾¨¬¦Ó¤w¡D«h©T­®¨ä¥i¦w¤]¡D½å¸t´µ´X¡Dªp¨ä¼|¥G¡D©T
+­®´µ¦w¡Dªp¨ä¨×¥G¡D¬O¿×¦³ÀË¡D¯Â¥G¯Â«v¡D¨ä¤W¤]¡D¨ä¦¸±o·§¦Ó¤w¨o¡D²ö
+­ê·§¤]¡D±o¨ä·§¡D­eµL¨¸¡D´µ¥i¨o¡D§g¤l¥|¬Ù¨ä¨­¡D«ã¤£¶Ã¼w¡D³ß¤£¯Ê¤@
+¦r¸q¤]¡DÃÑ¥k¯û®®¥ÓÅ³¤­¨÷¡D®®¦r¥ò¿Ý¡Dåù¤t¤H¡D¯û¤ó¤KÀs»ü¤§¤l¤]¡Dº~
+®Ñ¥»¶Ç¶³¡D®®¦nµÛ­z¡Dªì¹@ÂíªF±N­x±ä¾Þ©²¡D¾E¶Àªù¨Í­¦¡D²Ö¾E¨Í¤¤¡D®É
+¬F²¾±ä¤ó¡D¤Ñ¤l®¥¤v¦Ó¤w¡D®®§Ó¦bÄm´À¦Ó¿ÑµL©Ò¥Î¡D¤D§@¥ÓÅ³¤­½g¡D¨ä©Ò
+½×¿ë¡D³q¨£¬FÅé¡D®Ñ«µ¡D«ÒÄý¦Óµ½¤§¡D¤S¥H¯Z©Tº~®Ñ¡D¤åÁcÃø¬Ù¡D¥O®®¨Ì
+¥ª¤ó¶ÇÅé¡Dº~¬ö¤T¤Q½g¡DÃã¬ù¨Æ¸Ô¡D½×¿ë¦h¬ü¡D¤G®Ñ¨Ã¦æ©ó¥@¡DÅUº~¬ö¦Û
+§º²»²Å«á¡D¤Z¥|¤­èjªO¡D°ê´ÂÁ¸¥­½±¤ó¡D½Æ»P°K§»«áº~¬ö¦X¨è¥H¼s¨ä¶Ç¡D
+¦Ó¦¹®Ñ¿W¤Ö¶Ç¥»¡D«e©ú¥¿²Î®É¡D§d°p¶À«j¤§©l°VÄÀ¡D½Æ¿à¦ó¤óªö¤Jº~ÃQÂO
+®Ñ¡D¦Ó«á¤£¦Ü»P®ÙÃÓ·s½×¡D¥òªø²Î©÷¨¥µ¥®Ñ¡D¦PÂk¯Q¦³¤]¡Dªñ©ê¸g°ó¸s®Ñ
+¬B¸É¤º¥ÓÅ³¤@«h¡D¤D¦Xµ{¤ó¦ó¤ó¶À¤ó¤T¥»°Ñ®Õ¡D­n¤§½Ñ¥»­ÑµL¬Æ²æ»~¡D¿c
+¤ó¦h¾Ú¥L®Ñ¡D¤Î¤v·N­×§ï¡D©ó¦¹®Ñ¥ç¥¼¥²µL¤p¸É¶³¡D¦¼¤W¤ýÂÓÃÑ¡D
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of shen jian, by xun yue
+
+*** END OF THE PROJECT GUTENBERG EBOOK SHEN JIAN ***
+
+This file should be named 8xysj10.txt or 8xysj10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 8xysj11.txt
+VERSIONS based on separate sources get new LETTER, 8xysj10a.txt
+
+Produced by Ni-Yen Wu
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+
