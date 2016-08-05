@@ -1,0 +1,32 @@
+_repo: --_7408
+_version: 0.0.1
+alternative_title: Shen Jian
+creator:
+  author:
+    agent_name: Xun, Yue
+    aliases:
+    - 荀悅
+    - 荀悦
+    birthdate: 148
+    deathdate: 209
+    gutenberg_agent_id: '2460'
+    url: http://www.gutenberg.org/2009/agents/2460
+    wikipedia: http://zh.wikipedia.org/wiki/%E8%8D%80%E6%82%85
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7408'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confucius'
+- !lcc 'PL'
+- !lcsh 'Philosophy, Chinese'
+- !lcsh 'Taoism'
+- !lcsh 'Ethics -- China'
+- GITenberg
+title: 申鑒
+url: http://www.gutenberg.org/ebooks/7408
