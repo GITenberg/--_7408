@@ -1,6 +1,9 @@
 _repo: --_7408
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Shen Jian
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Xun, Yue
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2460
     wikipedia: http://zh.wikipedia.org/wiki/%E8%8D%80%E6%82%85
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7408#--
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
